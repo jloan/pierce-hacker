@@ -9,7 +9,7 @@ PierceHacker provides tutorials and other resources in order to help the Pierce 
 **Our motto: Towards a robust information competency!**
 
 
-Contact Pierce_Hacker at jloan@pierce.ctc.edu
+### Contact PierceHacker at jloan@pierce.ctc.edu
 
 # License
 
