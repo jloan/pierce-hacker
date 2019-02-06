@@ -21,4 +21,4 @@ PierceHacker began (and continues) as a project in a Technical Writing Course fi
 
 # Participation
 
-Interested in participating in PierceHacker? Check out the [contribute](/contribute/) page.
+Interested in participating in PierceHacker? Check out the [contribute](https://jloan.github.io/pierce-hacker/contribute/) page.
