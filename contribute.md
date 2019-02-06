@@ -17,7 +17,7 @@ Have an idea for a novice-friendly technology tutorial? PierceHacker wants to wo
 * Teachers -- use a technology that you think might benefit students across the curriculum or beyond? Get in touch with us.
 * Students -- use a technology in or outside your classes that you think might benefit your peers in their own life and work? Get in touch with us.
 
-Check out our tutorial proposal form.
+Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
 
 ## Write for Our Blog
 
@@ -25,7 +25,7 @@ In addition to tutorials, PierceHacker also seeks to publish blog posts that cre
 
 For example, do you have knowledge of or experience with an issue like [digital redlining](https://en.wikipedia.org/wiki/Digital_redlining)? Share your knowledge. Let us work with you to publish a blog post. 
 
-Check out our blog post proposal form.
+Check out our [blog post proposal form](/assets/blog-proposal-form.txt).
 
 ## Use PierceHacker in Your Class
 
