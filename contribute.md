@@ -36,9 +36,9 @@ We encourage you to share links to existing tutorials relevant to your courses.
 
 #### Class Projects
 
-Teachers -- We also encourage you to use PierceHacker to develop writing assignments or projects in your class: 
+Teachers -- we also encourage you to use PierceHacker to develop writing assignments or projects in your class: 
 
-* Use a particular technology that students struggle with? Have them learn it by trying to teach it to another. Ask them to propose and compose a tutorial for us. Each one; teach one.
+* Use a particular technology that students struggle with? Have them learn it by trying to teach it to another. Ask them to propose and compose a tutorial for us. 
 * Want students to write creatively, critically, or reflectively about technology? Ask them to propose and compose a blog for us.
 * Want students to practice reviewing and providing  feedback to tutorials and blog posts in progress? Ask them to be a reviewer for us.
 * Need a [rhetorical situation](https://wac.colostate.edu/resources/wac/intro/rhetoric/) for a writing assignment or project? Let us be your rhetorical situation.
