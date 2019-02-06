@@ -11,6 +11,6 @@ Specifically, PierceHacker seeks to develop a robust, critical practice of infor
 
 As of Winter 2019, PierceHacker operates primarily as a project of Jason Loan's Technical Writing Course. We do, however, wish to invite the immediate contributions and feedback of the Pierce Community at large. 
 
-Please explore the site to learn more and do not hesiatte to get in touch.
+Please explore the site to learn more and do not hesitate to get in touch.
 
 Hope to hear from you soon.

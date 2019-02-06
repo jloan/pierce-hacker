@@ -1,0 +1,24 @@
+# PierceHacker Blog Post Proposal Form
+
+Writers interested in composing a post for the PierceHacker blog should fill out this form in order to give our editors enough information so that we may comment on your idea. 
+
+Note: Blog posts should aim to be between 750 -- 1000 words in length.
+
+If you have any specific questions or problems please email Jason Loan (jloan@pierce.ctc.edu)
+
+## About You
+1. Your name
+2. Your email address
+
+## Lesson Metadata
+
+
+3. Proposed Title of Post:
+4. Post Abstract (2 - 3 sentences):
+5. A short description of the situation/need that your post responds to (consider details of purpose, audience, context):
+6. Does your post include research? Yes / No
+7. If yes, what source material are you using? (1 - 2 examples)
+8. Discipline/Research Area most relevant to your tutorial (delete as appropriate): Humanities / Social Sciences / Mathematics / Natural Sciences / Physical Sciences / Business-Pro-Tech / other
+9. Will you post utilize other media (delete as appropriate): images / video / audio / other
+10. Intended Submission Date:
+11. Any other comments for the editor
