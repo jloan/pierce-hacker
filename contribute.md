@@ -43,15 +43,15 @@ Teachers -- We also encourage you to use PierceHacker to develop writing assignm
 * Want students to practice reviewing and providing  feedback to tutorials and blog posts in progress? Ask them to be a reviewer for us.
 * Need a [rhetorical situation](https://wac.colostate.edu/resources/wac/intro/rhetoric/) for a writing assignment or project? Let us be your rhetorical situation.
 
-At the moment we do not yet have any specific lesson plans or modules for use in your classes. We  hope to have some soon. But for now, we encourage you to contact us to discuss possibilites and logistics. 
+At the moment we do not yet have any specific lesson plans or modules for use in your classes. We  hope to have some soon. For now, we encourage you to contact us to discuss possibilites and logistics. 
 
 We cannot, of course, publish everything proposed and composed for us in your classes, but we would sure like to try. 
 
 ## Join the PierceHacker Team
 
-PierceHacker runs via volunteer and class project power. At the moment, this a volunteer staff of one -- Jason. When Jason teaches Technical Writing, which is often, he also invites students his to engage, contribute, and work on PierceHacker.
+PierceHacker runs via volunteer and class project power. At the moment, this a volunteer staff of one -- Jason. When Jason teaches Technical Writing, which is often, he also invites students to engage, contribute, and work on PierceHacker.
 
-This project in many ways started from Jason's own desire to learn some new skills and processes with things like GitHub. Have a skill you can contribute? Want to learn something new? PierceHacker welcomes you. Get in touch.
+This project in many ways started from Jason's own desire to learn some new skills and processes by with things like GitHub and minimal computing. Have a skill you can contribute? Want to learn something new? PierceHacker welcomes you. Get in touch.
 
  
 
