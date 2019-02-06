@@ -4,9 +4,6 @@ title: Contribute
 permalink: /contribute/
 ---
 
-The PierceHacker project is dedicated to fostering a sustainable venue for the open publishing of tutorials and other resources that support the development of a robust, critical information competency within the Pierce College community. 
-
-PierceHacker exists as an ongoing open pedagogy project within Jason Loan's Technical Writing (English 235) courses at Pierce; however, we do welcome and hope to facilitate contributions from the community at large.
 
 # Here are a handful of ways you can contribute to this project:
 
