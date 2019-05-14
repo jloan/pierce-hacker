@@ -1,13 +1,13 @@
 # PierceHacker Tutorial Proposal
 
-Writers interested in composing a tutorial for the PierceHacker project should fill out this form in order to give our editors enough information so that we may comment on your idea. 
+Writers interested in composing a tutorial/lesson for the PierceHacker project should fill out this form in order to give our editors enough information so that we may discuss your idea with you.
 
 If you have any specific questions or problems please email Jason Loan (jloan@pierce.ctc.edu)
 
 
 ## About You
-1. Your name
-2. Your email address
+1. Your name(s)
+2. Your email address(es)
 
 ## Lesson Metadata
 
