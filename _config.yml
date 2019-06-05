@@ -17,10 +17,10 @@ title: PierceHacker
 email: jloan@pierce.ctc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   hacker (noun): an ethusiastic and skilled computer programmer or user.
-baseurl: "/Pierce-Jacker-TEST" # the subpath of your site, e.g. /blog
+baseurl: "/pierce-hacker" # the subpath of your site, e.g. /blog
 url: "https://jloan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PierceHacker
-github_username:  MarkGarciaAO
+github_username:  jloan
 
 # Build settings
 markdown: kramdown
