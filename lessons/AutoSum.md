@@ -1,14 +1,12 @@
 ---
-Title: Basics of Using Excel AutoSum Feature
-Authors:
+layout: post
+title: "Basics of Using Excel AutoSum Feature"
+date: 2019-05-16
+category: tutorials
+author:
 - Alejandro Chavez
 - Dallas Ambrosio
 - Dion Jacobs
-Date: 2019-05-16
-Reviewers:
-- Jason Loan
-Layout: Tutorial
-Difficulty level: Intermediate
 ---
 
 ## Lesson Abstract
