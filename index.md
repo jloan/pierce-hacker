@@ -8,7 +8,7 @@ permalink: /
 ---
 
 
-# Home
+ Home
 
 
 <img src="https://www.pierce.ctc.edu/sites/default/files/PierceCollege-Logo-square.png" alt="Pierce College Logo" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
