@@ -4,7 +4,7 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-<div id="lessons">
+<div id="posts">
   <ul>
     {% for post in site.lessons %}
 	{% if post.category == "tutorials" %}
