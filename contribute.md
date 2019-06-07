@@ -28,6 +28,10 @@ For example, do you have knowledge of, or experience with, an issue like [digita
 
 Check out our [blog post proposal form](/assets/blog-proposal-form.txt).
 
+## Send all Blog/Tutorial proposals to this email:
+
+jloan@pierce.ctc.edu - Start a discussion with us and see what can be **improved upon** and **approved.**
+
 ## Use PierceHacker in Your Class
 
 The PierceHacker site -- even while in the incubation stages -- is always live and public. Here are some ways to use PierceHacker in your class.
