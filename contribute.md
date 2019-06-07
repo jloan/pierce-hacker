@@ -30,7 +30,7 @@ Check out our [blog post proposal form](/assets/blog-proposal-form.txt).
 
 ## Send all Blog/Tutorial proposals to this email:
 
-jloan@pierce.ctc.edu - Start a discussion with us and see what can be **improved upon** and **approved.**
+**jloan@pierce.ctc.edu** - Start a discussion with us and see what can be **improved upon** and **approved.**
 
 ## Use PierceHacker in Your Class
 
