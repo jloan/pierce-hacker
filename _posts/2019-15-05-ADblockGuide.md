@@ -41,30 +41,46 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 
 ## Guide
 :sparkles: 1. In your google chrome browser enter google chrome extensions adblock in the address bar :sparkles:
-![2019-05-20 (6)](https://user-images.githubusercontent.com/49451690/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58041395-dbcc9880-7aec-11e9-89e5-9b77bd1df685.png" >
+
 :sparkles: 2. Click on the link for Adblock :sparkles:
-![step2](https://user-images.githubusercontent.com/49451690/58116244-b1441380-7bb0-11e9-8bff-785a0c8fa572.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58116244-b1441380-7bb0-11e9-8bff-785a0c8fa572.png" >
+
 :sparkles: 3. Click Blue add to Chrome button and wait for popup window :sparkles:
-![step3](https://user-images.githubusercontent.com/49451690/58116270-c0c35c80-7bb0-11e9-90b4-67ba7b8f0819.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58116270-c0c35c80-7bb0-11e9-90b4-67ba7b8f0819.png" >
+
 :sparkles: 4. click ADD extension button on Popup :sparkles:
-![step4](https://user-images.githubusercontent.com/49451690/58116305-d173d280-7bb0-11e9-944a-df709201e7da.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58116305-d173d280-7bb0-11e9-944a-df709201e7da.png" >
+
 :sparkles: 5. Wait for installing Adblock to finish notice red stop sign logo in upper right of your web browser :sparkles:
-![step5](https://user-images.githubusercontent.com/49451690/58117650-e736c700-7bb3-11e9-9e31-77e51dc012ee.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58117650-e736c700-7bb3-11e9-9e31-77e51dc012ee.png" >
+
 :sparkles: 6. Feel free to read and donate to publisher if you feel generous; donation is not neccesery :sparkles:
-![step6](https://user-images.githubusercontent.com/49451690/58117667-f3bb1f80-7bb3-11e9-95ff-beb8e9b697e9.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58117667-f3bb1f80-7bb3-11e9-95ff-beb8e9b697e9.png" >
+
 :sparkles: 7. ENJOY AD free web browsing :sparkles:
 
 ## Other ADblocking extention option
 **There are several adblocking extentions you could add to your Chrome web broswer another Adblocking extenstion to consider is UBLOCK and you can find and install it the same way**
-![Ublock](https://user-images.githubusercontent.com/49451690/58195182-3fd19700-7c7c-11e9-842b-d1cb03688cdc.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58195182-3fd19700-7c7c-11e9-842b-d1cb03688cdc.png" >
 
 ## Features and how use ADblock 
 :sparkles: Notice the AD on this webpage without ADBLOCK extentsion :sparkles:
-![2019-05-23 (2)](https://user-images.githubusercontent.com/49451690/58272794-2431c380-7d44-11e9-9477-8be45495da71.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58272794-2431c380-7d44-11e9-9477-8be45495da71.png" >
+
 :sparkles: Notice the red stop sign in the upper right corner it displays how many Ads are filtered out of this web page :sparkles:
-![2019-05-23 (3)](https://user-images.githubusercontent.com/49451690/58273288-3ceea900-7d45-11e9-95ea-07efecd1a94d.png)
+
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58273288-3ceea900-7d45-11e9-95ea-07efecd1a94d.png" >
+
 :sparkles: Clicking on the red stop sign brings up a menue where you can do things like pause Adblocking on the sites you prefer to see Ads and see how many ADs are actually being blocked :sparkles:
-![2019-05-23 (4)](https://user-images.githubusercontent.com/49451690/58273443-98209b80-7d45-11e9-82be-68f6d19ee1bb.png)
 
-
+<img src="{{ site.baseurl }}/assets/images/AdBlock/58273443-98209b80-7d45-11e9-82be-68f6d19ee1bb.png" >
 
