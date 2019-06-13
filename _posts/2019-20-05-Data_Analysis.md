@@ -75,25 +75,30 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Standard_Deviation.gif" >
 </p>
 
-7. Use these buttons <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Decimal_Buttons.png" > to adjust how many decimal places shown. <p align="center">
+7. Use these buttons <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Decimal_Buttons.png" > to adjust how many decimal places shown.
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Decimals.gif" >
 </p>
 
-8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated. <p align="center">
+8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Drag_Right.gif" >
 </p>
 
-9. When you have your table completely filled out, highlight and copy it. <p align="center">
+9. When you have your table completely filled out, highlight and copy it.
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Copy.gif" >
 </p>
 
-10. Now paste it in your Google Doc as a linked table. <p align="center">
+10. Now paste it in your Google Doc as a linked table.
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Pasting.gif" >
 </p>
 
 11. After making changes to your sheet, you will see <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Update_Button.png" > at the top of your table in Docs. Simply click it to update the data.
 
-12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here: <p align="center">
+12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here:
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Change_Range.gif" >
 </p>
 
