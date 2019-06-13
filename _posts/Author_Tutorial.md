@@ -1,9 +1,9 @@
 ---
-title: "Writing a Lesson"
-authors: "Greg Joyce"
-date: 2019-06-05 10:00:00
 layout: post
+title: "Writing a Lesson"
+date: 2019-06-05 10:00:00
 category: contribute
+authors: "Greg Joyce"
 ---
 
 ## Lesson Abstract
