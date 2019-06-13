@@ -20,7 +20,15 @@ We are looking for tutorials and lessons that develop the array of technological
 
 Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
 
-For a lesson on Tutorial creation, click [here](/contribute/Author_Tutorial.md)
+<div id="posts">
+  <ul>
+    {% for post in site.posts %}
+	{% if post.category == "contribute" %}
+      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by <span class="italic">{{ post.author }}</span></li>
+	{% endif %}    
+{% endfor %}
+  </ul>
+</div>
 
 ## Write for Our Blog
 
