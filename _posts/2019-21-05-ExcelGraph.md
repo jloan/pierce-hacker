@@ -36,15 +36,21 @@ Students at pierce generally have a hard time using the microsoft office program
 
 * Input your data.
 
-![test](images/excel_step1.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/ExcelGraph/excel_step1.png" >
+</p>
 
 * Highlight your data by moving the mouse from the beginning of your data to the end of your data, then click the insert tab, and in the charts section choose one of nine graph and chart options to make.
 
-![test](images/excel_step2.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/ExcelGraph/excel_step2.png" >
+</p>
 
 * Adjust your data’s color’s and layout if applicable.
 
-![test](images/excel_step3.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/ExcelGraph/excel_step3.png" >
+</p>
 
 ## Credits, Further Reading, etc.
 
