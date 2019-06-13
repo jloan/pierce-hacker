@@ -32,20 +32,30 @@ If you're working on a math, science, or a lab project you might find the need t
 1. Open/create your Google doc
 2. You would want to click on the place you want the equation
 3. Then on the toolbar you want to select ***“insert”*** then select ***“special characters”***
-![Image3](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image3.jpg)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image3.jpg" >
+</p>
 
 4. You can search which symbol you need by either typing in a keyword **i.e. PI**
-![Image4](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image4.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image4.png" >
+</p>
 
 5. You can draw the symbol by using your mouse.
-![Image8](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image10.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image10.png" >
+</p>
 
 6. Once you have found the symbol you need just select it
-![Image8](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image8.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image8.png" >
+</p>
 7. Once you have selected the symbol you can write out your equation
 
 8. Another way you can accomplish this is after you click on the ***“insert”*** tab select the ***“equation”***
-![Image7](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image9.png)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image9.png" >
+</p>
 
 9. After those steps you'll be able to write any equation you need to complete your project.
 
@@ -54,8 +64,12 @@ If you're working on a math, science, or a lab project you might find the need t
 
 ## **Sharing your work** ##
 1. Click on the ***share*** button at the top right corner of your google doc.
-![image11](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image11.jpg)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image11.jpg" >
+</p>
 
 2. You will the see a pop-up box appear. Then you'll just need to type in the email address of the people you want to share your work with and click done.
 
-![image12](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Image12.jpg)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/Adding_Equations/Image12.jpg" >
+</p>
