@@ -33,7 +33,7 @@ Then click on the “Header and Footer” tab located at the top left of the pag
 4. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
 5. Then select the desired location of your page numbers and click ”OK”. If you
 
-![Word ScreenShot](https://github.com/Sdetweiler320/Pierce-Hacker.RD-/blob/master/Photos/Screen%20Shot%202019-05-20%20at%2010.19.02%20AM.png?raw=true)
-
-
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/assets/images/MSWord-Tut-Pic1.png" >
+</p>
 
