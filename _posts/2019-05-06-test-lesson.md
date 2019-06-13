@@ -7,6 +7,6 @@ author: Dallas A
 ---
 
 
-YOure going to lear alot from this. 
+You're going to lear alot from this. 
 
-It;s good for you.
+It's good for you.
