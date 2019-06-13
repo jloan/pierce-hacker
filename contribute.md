@@ -20,7 +20,7 @@ We are looking for tutorials and lessons that develop the array of technological
 
 Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
 
-For a lesson on Tutorial creation, click [here](/_posts/Author_Tutorial.md)
+For a lesson on Tutorial creation, click [here](/contribute/Author_Tutorial.md)
 
 ## Write for Our Blog
 
