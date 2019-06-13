@@ -16,7 +16,7 @@ permalink: /
 
 *Our motto: Towards a robust and critical information competency!*
 
-# Most Recent Blog Post
+# Most Recent Blog Posts
 
 <div id="posts">
   <ul>
