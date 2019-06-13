@@ -44,13 +44,13 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
 3. Open Google Docs.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/b1.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/b1.png" >
 </p>
 
 4. Start a new document (or open an existing one).
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/c1.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/c1.png" >
 </p>
 
 From here you can share your document.
@@ -60,19 +60,19 @@ From here you can share your document.
 1. Press the "Share" button at the top right (Make sure your document has a good name).
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/d1.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/d1.png" >
 </p>
 
 2. Enter the person's email in the text box.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/e1.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/e1.png" >
 </p>
 
 3. Click the drop down to determine the access that the person has to your document.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/f1.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/f1.png" >
 </p>
 
 4. Click send.
@@ -98,7 +98,7 @@ The recipient of the document is limited to whichever level of access was given 
 1. Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDocCollab/i.png>
+  <img src="{{ site.baseurl }}/assets/images/GDocCollab/i.png" >
 </p>
 
 ## Credits, Further Reading, etc.
