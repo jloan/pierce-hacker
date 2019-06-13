@@ -17,18 +17,9 @@ We are looking for tutorials and lessons that develop the array of technological
  
 * *Teachers* -- use a technology that you think might benefit students across the curriculum or beyond? Get in touch with us.
  
-
 Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
 
-<div id="posts">
-  <ul>
-    {% for post in site.posts %}
-	{% if post.category == "contribute" %}
-      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by <span class="italic">{{ post.author }}</span></li>
-	{% endif %}    
-{% endfor %}
-  </ul>
-</div>
+Check out our [guide on how to compose a lesson best suited](https://markgarciaao.github.io/pierce-hacker/contribute/2019/06/05/author_tutorial.html) for the PierceHacker project.
 
 ## Write for Our Blog
 
