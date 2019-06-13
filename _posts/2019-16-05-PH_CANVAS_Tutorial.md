@@ -6,7 +6,9 @@ category: tutorials
 author: "Forrest Busching, Mark Garcia, Ty Melancon, & Thomas Wonser" 
 ---
 
-<img src="https://its.unl.edu/images/services/icons/Canvas%20Icon-F-01-01.png" width="760" height="760"> 
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/Canvas Icon-F-01-01.png" width="760" height="760">
+</p>
 
 ## Lesson Abstact
 
@@ -30,7 +32,7 @@ Canvas can be a confusng website/program to work with. It being web-based tends 
 
 
 
-## Lesson Steps/Components [as many as needed]
+## Lesson Steps/Components
 
 ## Using Canvas via Mobile Devices
 
@@ -43,31 +45,43 @@ There is a file storage area in the Canvas app that acts as a hub for you to use
 
 When you first open your Canvas app, you will be greeted by this screen.
 
-<img src="https://i.imgur.com/SOPCreb.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/SOPCreb.jpg" width="250" height="500">
+</p>
 
 
 To get to the menu we want, select the three bars in the top left hand corner by tapping on it once with your finger.
 
-<img src="https://i.imgur.com/aLbTDjw.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/aLbTDjw.jpg" width="250" height="500">
+</p>
 
 
 
 Now this will bring up a menu that has a number of choices. The one we are concerned with is the FILES tab. Select this tab by tapping it once with your finger.
 
-<img src="https://i.imgur.com/hgCSzGJ.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/hgCSzGJ.jpg" width="250" height="500">
+</p>
 
 This brings up the FILES storage. You can put new files in here or entire folders. You can also delete files. Note that turning in a file or folder does not delete it. So you could turn in the same file ten times and it would still be in the FILES storage. 
-<img src="https://i.imgur.com/D21iAfR.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/D21iAfR.jpg" width="250" height="500">
+</p>
 
 Now that you are in the FILES storage you can upload files to it. First, select the plus sign in the bottom right hand corner by tapping it once with your finger. 
 
 This will bring up two options. The first is a file looking icon. Selecting this will create a new folder to help with organization. However we are concerned with the second icon which looks like an arrow pointing upwards. This is the "upload" option and will allow us to search for the file we want to upload to the FILES storage area.
 
-<img src="https://i.imgur.com/HGRSFud.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/HGRSFud.jpg" width="250" height="500">
+</p>
 
 The three options given to us are, Camera, Gallery, and Device. 
 
-<img src="https://i.imgur.com/fsNMBhA.jpg" width="250" height="500"/>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/fsNMBhA.jpg" width="250" height="500">
+</p>
 
 * Camera is for taking a picture of something 
 * Gallery allows you to look through your pictures already taken and select one or more
@@ -79,5 +93,4 @@ The idea is to consolidate all of your data to this storage area so that you can
 
 ## Turning in Assignments via Canvas APP
 
-## Credits, Further Reading, etc.
 
