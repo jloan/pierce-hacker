@@ -51,11 +51,13 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ***"="***.
 
    >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps. 
+   
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Entering_Equation.gif" >
 </p>
 
-   >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners. 
+   >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.
+
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Equation_with_Parentheses.png" >
 </p> 
