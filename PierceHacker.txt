@@ -1,0 +1,79 @@
+﻿PierceHacker
+Behind the scenes
+The PierceHacker project is hosted via GitHub on GitHub Pages, using Jekyll to build the web pages.
+
+
+What is GitHub? Github is a site that provides a “version control’ system; or to put it simply, control over any changes you make on a document/code. You can move between any changes you make and see exactly what you changed for further examination. Github projects fall under repositories, where you can drop any file you need. Github also has many different ways of editing and submitting files.
+
+
+What is Jekyll? Jekyll is a feature of GitHub that automatically generates web pages from the files in a repository. Jekyll automatically looks for files that have special parameters to use for the website. Jekyll combines the information in a file with a pre-built template
+
+
+One of the main things we need to get across is that the “Commit” tab of the repository will be your best friend. The Commit section will tell you what changes have been made, how many changes have been made, and if the changes have been approved to be published. So if something went wrong in your process, you can check back here to see exactly where it errored. 
+
+
+At the start of our project, our initial goal was to fix up the homepage. Initially, the homepage was very barebones. Just a “Post” section with a singular post on it. What we discovered is that the theme of the website is more blog like, causing the homepage of this theme to be focused around the blog post. 
+
+
+So what we did was change the page layout from “home” to simply “page.” The “page” layout just gives us a blank slate to work with. From there, we added a logo to the front page using html:
+
+
+<img src="assets/logo.png" alt="Pierce College Logo" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+
+
+Also, unless you really want a header to the front page, don’t bother editing the “title:”.
+
+
+We then moved the content from the front page to a new “Blog” page. Changing the permalink and title to “Blog.” Make sure that under the “Permalink” section, add “ / “ on either side of “Blog”
+
+
+The last thing we added to the front page is the “Most Recent Blog Post” section. We didn’t want the lose the blog posts, but we also didn’t want all the blog post to be on the front page; so we copied and pasted the code for the first blog in the “Blog” section. 
+
+
+#Most Recent Blog Post
+
+
+<div id="posts">
+  <ul>
+    {% for post in site.posts %}
+        {% if post.category == "meta" %}
+      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by <span class="italic">{{ post.author }}</span></li>
+        {% endif %}    
+{% endfor %}
+  </ul>
+</div>
+
+
+This page should update as more blog posts are added.
+
+
+Another thing we did was link a lesson designed to help contributors compose tutorials for the site. So what we did was add the markdown tutorial under our “_posts” tab and formatted it so it was uniform with the rest of our tutorials; except we changed the category so it fell under the “contribute” category.
+
+
+After that, we went into our “contribute.md” file and added a new line:
+
+
+ Check out our [guide on how to compose a lesson best suited](https://markgarciaao.github.io/pierce-hacker/contribute/2019/06/05/author_tutorial.html) for the PierceHacker project.
+
+
+Anything in the brackets will be the text where the link will be embedded into, and the text in the parenthesis is the link to the tutorial within the website.
+
+
+Lastly, we added all the tutorials from the previous project using this code:
+
+
+<div id="posts">
+  <ul>
+    {% for post in site.posts %}
+        {% if post.category == "tutorials" %}
+      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by <span class="italic">{{ post.author }}</span></li>
+        {% endif %}    
+{% endfor %}
+  </ul>
+</div>
+
+
+Things to look out for is mass uploading, particularly images. During one of our commits, we mass uploaded a bunch of images into a designated folder. This caused everything to error, and not commit any of our changes. Since we can’t delete the folder itself, we had to go in and delete all the photos; one at a time. 
+
+
+We’re not sure why this happens, but our guess was that Jeckyll didn’t know where to put all this information, so it errored itself out.
