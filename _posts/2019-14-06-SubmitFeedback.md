@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How to Submit Feedback" 
-date:   2019-05-20 10:00:00
-category: contribute
+date:   2019-06-14 10:00:00
+category: tutorial
 author: "Dion Jacobs" 
 ---
 
