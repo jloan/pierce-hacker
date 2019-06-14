@@ -19,7 +19,7 @@ We are looking for tutorials and lessons that develop the array of technological
  
 Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
 
-Check out our [guide on how to compose a lesson best suited](https://markgarciaao.github.io/pierce-hacker/contribute/2019/06/05/author_tutorial.html) for the PierceHacker project.
+Check out our [guide on how to compose a lesson best suited]({{ site.baseurl }}/contribute/2019/06/05/author_tutorial.html) for the PierceHacker project.
 
 ## Write for Our Blog
 
