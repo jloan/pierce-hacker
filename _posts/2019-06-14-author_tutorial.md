@@ -7,7 +7,7 @@ authors: "Greg Joyce"
 ---
 
 ## Lesson Abstract
-This lesson is designed to both show how to make a lesson formatted for PierceHacker and also to serve as an example to aid in the creation of other lessons. The [raw text](https://raw.githubusercontent.com/MarkGarciaAO/pierce-hacker/gh-pages/_posts/2019-06-14-author_tutorial.md) for this lesson is also available so users can practice modifying it. A **[lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)** is also available.
+This lesson is designed to both show how to make a lesson formatted for PierceHacker and also to serve as an example to aid in the creation of other lessons. The [raw text](https://raw.githubusercontent.com/jloan/pierce-hacker/gh-pages/_posts/2019-06-14-author_tutorial.md) for this lesson is also available so users can practice modifying it. A **[lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)** is also available.
 
 ## Lesson Objectives/Outcomes
 * Authors of lessons for PierceHacker should be able to use this lesson as a guideline to make their own. 
