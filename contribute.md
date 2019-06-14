@@ -17,8 +17,9 @@ We are looking for tutorials and lessons that develop the array of technological
  
 * *Teachers* -- use a technology that you think might benefit students across the curriculum or beyond? Get in touch with us.
  
-
 Check out our [tutorial proposal form](/assets/tutorial-proposal-form.txt).
+
+Check out our [guide on how to compose a lesson best suited]({{ site.baseurl }}/contribute/2019/06/05/author_tutorial.html) for the PierceHacker project.
 
 ## Write for Our Blog
 
@@ -27,6 +28,10 @@ In addition to tutorials, PierceHacker also seeks to publish blog posts that cre
 For example, do you have knowledge of, or experience with, an issue like [digital redlining](https://en.wikipedia.org/wiki/Digital_redlining)? Share your knowledge. Let us work with you to publish a blog post. 
 
 Check out our [blog post proposal form](/assets/blog-proposal-form.txt).
+
+## Send all Blog/Tutorial proposals to this email:
+
+**jloan@pierce.ctc.edu** - Start a discussion with us and see what can be **improved upon** and **approved.**
 
 ## Use PierceHacker in Your Class
 
