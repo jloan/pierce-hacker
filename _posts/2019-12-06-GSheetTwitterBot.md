@@ -222,7 +222,8 @@ You’re almost done! From the **“Bot”** menu above, select **“Send a Test
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/send test tweet popup.png" >
 </p>
 
-assets/images/GSheetTwitterBot/twitter authorization.png" >
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/twitter authorization.png" >
 </p>
 
 Re-run Send a Test Tweet, and check your time line. Hopefully it worked!
