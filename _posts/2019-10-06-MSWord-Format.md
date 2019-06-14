@@ -6,7 +6,7 @@ category: tutorials
 author: "Samuel Detweiler" 
 ---
 
-#Lesson Abstract: 
+# Lesson Abstract: 
 
 How to Add Formatting features to a Microsoft Word Document
 
@@ -29,7 +29,7 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 
 1. Click on the "Home" tab then click on "Font" and change the font to "Times New Roman", Then change the font size to 12.
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/AutoSum/assets/images/MSWord-Formatting/59213260-4f504b80-8b69-11e9-954e-57fa6a88c354.png" >
+  <img src="{{ site.baseurl }}/assets/images/MSWord-Formatting/59213260-4f504b80-8b69-11e9-954e-57fa6a88c354.png" >
 </p>
 
 2. Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
