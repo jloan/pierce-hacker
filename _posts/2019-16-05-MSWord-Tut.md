@@ -29,9 +29,12 @@ In this tutorial a student will learn how to add pages numbers to the top and to
 
 1. Open a blank word document and click on the “insert” tab located at the top left of the page.
 Then click on the “Header and Footer” tab located at the top left of the page.
-3. Click on “Page Number” and another tab will come up with 3 options, “Page number”, “Format Page Number” and “Erase Page Number”. This is where you are really able to set up the specifics of the locations of your page numbers.
-4. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
-5. Then select the desired location of your page numbers and click ”OK”. If you
+
+2. Click on “Page Number” and another tab will come up with 3 options, “Page number”, “Format Page Number” and “Erase Page Number”. This is where you are really able to set up the specifics of the locations of your page numbers.
+
+3. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
+
+4. Then select the desired location of your page numbers and click ”OK”. If you
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/assets/images/MSWord-Tut-Pic1.png" >
