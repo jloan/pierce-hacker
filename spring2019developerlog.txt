@@ -76,4 +76,4 @@ Lastly, we added all the tutorials from the previous project using this code:
 Things to look out for is mass uploading, particularly images. During one of our commits, we mass uploaded a bunch of images into a designated folder. This caused everything to error, and not commit any of our changes. Since we can’t delete the folder itself, we had to go in and delete all the photos; one at a time. 
 
 
-We’re not sure why this happens, but our guess was that Jeckyll didn’t know where to put all this information, so it errored itself out.
+We’re not sure why this happens, but our guess was that Jekyll didn’t know where to put all this information, so it errored itself out.
