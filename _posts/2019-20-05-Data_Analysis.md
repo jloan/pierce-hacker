@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to do the following:
 ## Materials
 
 Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: [I'm an inline-style link](https://support.google.com/accounts/answer/27441?hl=en)
-Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to [docs.google.com](https://www.google.com/docs/about/) or [sheets.google.com](https://www.google.com/sheets/about/). You can access these websites on any browser.
+Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to [Google Docs](https://www.google.com/docs/about/) or [Google Sheets](https://www.google.com/sheets/about/). You can access these websites on any browser.
 
 ## Overview
 
@@ -43,19 +43,19 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
 
-      >Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
+   >Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Table_Layout.png" >
 </p>
 
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ***"="***.
 
-    >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps. 
+   >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps. 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Entering_Equation.gif" >
 </p>
 
-    >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners. 
+   >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners. 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/Data_Analysis/Equation_with_Parentheses.png" >
 </p> 
