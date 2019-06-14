@@ -24,9 +24,9 @@ Here's a list of question you may want to keep in mind when providing a feedback
 ### Different options/method or ways to provide feedback.
 ---
 #### 1.	PierceHacker contact information via email or tweet. 
-Please contact our PierceHacker team leader at jloan@pierce.ctc.edu or tweet us at https://www.twitter.com/PierceHacker if you have any question, issue, or recommendations with any of our tutorial/lesson or the site itself.  A brief description in the subject line of the email/message will help speed up the response time.
+Please contact our PierceHacker team leader at [Jason's emial](jloan@pierce.ctc.edu) or tweet us at [Twitter](https://www.twitter.com/PierceHacker) if you have any question, issue, or recommendations with any of our tutorial/lesson or the site itself.  A brief description in the subject line of the email/message will help speed up the response time.
 #### 2.	Reporting an issue via GitHub.
-This method will get the fastest response.  This method allows all of the PierceHacker team to see and respond to your issues.  Using this **(link)** will bring you to a template which you can use if you choose.  This (https://github.com/jloan/pierce-hacker-submissions/issues) link will take you to the Pierce-Hacker-Submission webpage.
+This method will get the fastest response.  This method allows all of the PierceHacker team to see and respond to your issues.  Using this **(link)** will bring you to a template which you can use if you choose.  This [GitHub](https://github.com/jloan/pierce-hacker-submissions/issues) link will take you to the Pierce-Hacker-Submission webpage.
 #### 3.	Making a detail suggestion.
 This method/option will allow you to leave detail comments to specific lines within the tutorial/lesson in our directory.  The PierceHacker team will then read and take your suggestions into consideration.
 #### 4.	Pull Request for access to the file.
