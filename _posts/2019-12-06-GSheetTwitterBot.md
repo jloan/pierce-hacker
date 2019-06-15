@@ -60,7 +60,7 @@ After you click on the "Sign up" tab it will ask you add a phone number, you can
 
 **2. Open your Google Sheet**
 
-Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don't have to worry about lossing any information.
+Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don't have to worry about losing any information.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Adding twitter name.jpg" >
