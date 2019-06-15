@@ -260,3 +260,10 @@ You can change the data sheet selection and edit the data sheet contents without
 </p>
 
 It will simply use the updated setting whenever it next attempts to send a tweet. You will, however, have to stop and restart the posting if you want to change the timing.
+
+---
+## Example
+
+I have a bot called [RobobotPR20](https://twitter.com/robobotpr20) running that's tweeting random Roses are red poems
+
+---
