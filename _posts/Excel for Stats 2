@@ -1,0 +1,31 @@
+---
+title: Excel for Stats 2
+authors:
+- Matt Slater
+date: 2016-01-15
+reviewers:
+- Jason Loan
+layout: lesson
+difficulty level: low-intermediate
+---
+
+## Abstract
+Excel is an important tool, with numerous functions available to help with math, data, and statistics. At Pierce, it is not just the STEM students who use stats in their major, but also business and education. One of the tasks students taking statistics are often given (and sometimes struggle with) is finding the 7-point summary of a large set of data. This tutorial can help with the process, using Excel to compute the 7-point summary.
+
+## Lesson Objectives/Outcomes
+You should be able to find the mean, standard deviation, minimum, first quartile, median, third quartile, and maximum of a ''large'' set of data. (I would call large 6 or more points of data. You should be able to do smaller sets without Excel.)
+
+## Materials
+- A computer that supports Microsoft Office
+- Microsoft Excel
+- Data
+
+## Overview
+Excel is a mathematic software from Microsoft. It allows you to perform mathematic functions, compare and process data, make graphs and charts, etc. It's usefulness makes it common in business, scientific, and educational environments. For stats students, the functions that help you find the 7-point summary or a data set is important.
+
+## Lesson Steps/Components
+
+## Credits, Further Reading, etc.
+
+* You may find it necessary to reference and cite information from another source.
+* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
