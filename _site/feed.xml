@@ -1,9 +1,956 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/pierce-hacker/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/pierce-hacker/" rel="alternate" type="text/html" /><updated>2019-02-05T16:58:26-08:00</updated><id>http://localhost:4000/pierce-hacker/feed.xml</id><title type="html">PierceHacker</title><subtitle>hacker (noun): an ethusiastic and skilled computer programmer or user.</subtitle><entry><title type="html">Welcome to PierceHacker!</title><link href="http://localhost:4000/pierce-hacker/meta/2019/02/04/welcome-to-PierceHacker.html" rel="alternate" type="text/html" title="Welcome to PierceHacker!" /><published>2019-02-04T21:19:04-08:00</published><updated>2019-02-04T21:19:04-08:00</updated><id>http://localhost:4000/pierce-hacker/meta/2019/02/04/welcome-to-PierceHacker</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/meta/2019/02/04/welcome-to-PierceHacker.html">&lt;p&gt;PierceHacker officially gets off the ground this quarter. At its core, PierceHacker is an &lt;a href=&quot;https://www.jessestommel.com/textbooks-oer-and-the-need-for-open-pedagogy/&quot;&gt;open pedagogy project&lt;/a&gt; designed to facilitate students and other members of the Pierce College community being able to become producers of knowledge rather than simply consumers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/pierce-hacker/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/pierce-hacker/" rel="alternate" type="text/html" /><updated>2020-01-14T12:23:44-08:00</updated><id>http://localhost:4000/pierce-hacker/feed.xml</id><title type="html">PierceHacker</title><subtitle>hacker (noun): an ethusiastic and skilled computer programmer or user.</subtitle><entry><title type="html">How to Submit Feedback</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/06/14/SubmitFeedback.html" rel="alternate" type="text/html" title="How to Submit Feedback" /><published>2019-06-14T03:00:00-07:00</published><updated>2019-06-14T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/06/14/SubmitFeedback</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/06/14/SubmitFeedback.html">&lt;h1 id=&quot;we-appreciate-your-thoughts&quot;&gt;We appreciate your thoughts.&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;Thank you for providing us with your highly valuable feedback.  We appreciate the time and thoughts you put into these feedbacks.  Your feedbacks contribute and help grow this site.  The information below are just suggested thoughts to keep in mind and options in which you can provide them.&lt;/p&gt;
 
-&lt;p&gt;Specifically, PierceHacker seeks to develop a robust, critical practice of information competency, &lt;a href=&quot;https://www.pierce.ctc.edu/degree-outcomes&quot;&gt;a core ability&lt;/a&gt; of the general education outcomes of Pierce College.&lt;/p&gt;
+&lt;h3 id=&quot;possible-questions-and-thoughts-to-keep-in-mind-when-providing-feedback&quot;&gt;Possible Questions and thoughts to keep in mind when providing feedback.&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here’s a list of question you may want to keep in mind when providing a feedback of the tutorial/lesson that you are using.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Does the tutorial/lesson prepare you as far as what software/program was needed?&lt;/li&gt;
+  &lt;li&gt;Does the tutorial/lesson inform you on how much experience or how familiar you should have with the software/program you are using the guide for?&lt;/li&gt;
+  &lt;li&gt;Does the tutorial/lesson provide an easy to follow layout?&lt;/li&gt;
+  &lt;li&gt;Does the tutorial/lesson seems too long or to short?&lt;/li&gt;
+  &lt;li&gt;Was it organize and were you able to find the object/information you needed in a timely manner?&lt;/li&gt;
+  &lt;li&gt;Does the tutorial/lesson provide a reason or concept on how said lesson compares to similar lesson?&lt;/li&gt;
+  &lt;li&gt;Does the tutorial/lesson suggest how it could be applied other work?&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;As of Winter 2019, PierceHacker operates primarily as a project of Jason Loan’s Technical Writing Course. We do, however, wish to invite the immediate contributions and feedback of the Pierce Community at large.&lt;/p&gt;
+&lt;h3 id=&quot;different-optionsmethod-or-ways-to-provide-feedback&quot;&gt;Different options/method or ways to provide feedback.&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;h4 id=&quot;1-piercehacker-contact-information-via-email-or-tweet&quot;&gt;1.	PierceHacker contact information via email or tweet.&lt;/h4&gt;
+&lt;p&gt;Please contact our PierceHacker team leader at &lt;a href=&quot;jloan@pierce.ctc.edu&quot;&gt;Jason’s emial&lt;/a&gt; or tweet us at &lt;a href=&quot;https://www.twitter.com/PierceHacker&quot;&gt;Twitter&lt;/a&gt; if you have any question, issue, or recommendations with any of our tutorial/lesson or the site itself.  A brief description in the subject line of the email/message will help speed up the response time.&lt;/p&gt;
+&lt;h4 id=&quot;2-reporting-an-issue-via-github&quot;&gt;2.	Reporting an issue via GitHub.&lt;/h4&gt;
+&lt;p&gt;This method will get the fastest response.  This method allows all of the PierceHacker team to see and respond to your issues.  Using this &lt;strong&gt;(link)&lt;/strong&gt; will bring you to a template which you can use if you choose.  This &lt;a href=&quot;https://github.com/jloan/pierce-hacker-submissions/issues&quot;&gt;GitHub&lt;/a&gt; link will take you to the Pierce-Hacker-Submission webpage.&lt;/p&gt;
+&lt;h4 id=&quot;3-making-a-detail-suggestion&quot;&gt;3.	Making a detail suggestion.&lt;/h4&gt;
+&lt;p&gt;This method/option will allow you to leave detail comments to specific lines within the tutorial/lesson in our directory.  The PierceHacker team will then read and take your suggestions into consideration.&lt;/p&gt;
+&lt;h4 id=&quot;4-pull-request-for-access-to-the-file&quot;&gt;4.	Pull Request for access to the file.&lt;/h4&gt;
+&lt;p&gt;If you feel that you’re experience and familiar with GitHub and markdown files, you can make a pull request and edit/fix the tutorial/lesson yourself.  You’ll make changes to the current version and submit them.  Our PierceHacker team will then review the changes and decide if they should replace the current tutorial or lesson.&lt;/p&gt;</content><author><name>Dion Jacobs</name></author><category term="tutorials" /><summary type="html">We appreciate your thoughts. Thank you for providing us with your highly valuable feedback. We appreciate the time and thoughts you put into these feedbacks. Your feedbacks contribute and help grow this site. The information below are just suggested thoughts to keep in mind and options in which you can provide them. Possible Questions and thoughts to keep in mind when providing feedback. Here’s a list of question you may want to keep in mind when providing a feedback of the tutorial/lesson that you are using. Does the tutorial/lesson prepare you as far as what software/program was needed? Does the tutorial/lesson inform you on how much experience or how familiar you should have with the software/program you are using the guide for? Does the tutorial/lesson provide an easy to follow layout? Does the tutorial/lesson seems too long or to short? Was it organize and were you able to find the object/information you needed in a timely manner? Does the tutorial/lesson provide a reason or concept on how said lesson compares to similar lesson? Does the tutorial/lesson suggest how it could be applied other work? Different options/method or ways to provide feedback. 1. PierceHacker contact information via email or tweet. Please contact our PierceHacker team leader at Jason’s emial or tweet us at Twitter if you have any question, issue, or recommendations with any of our tutorial/lesson or the site itself. A brief description in the subject line of the email/message will help speed up the response time. 2. Reporting an issue via GitHub. This method will get the fastest response. This method allows all of the PierceHacker team to see and respond to your issues. Using this (link) will bring you to a template which you can use if you choose. This GitHub link will take you to the Pierce-Hacker-Submission webpage. 3. Making a detail suggestion. This method/option will allow you to leave detail comments to specific lines within the tutorial/lesson in our directory. The PierceHacker team will then read and take your suggestions into consideration. 4. Pull Request for access to the file. If you feel that you’re experience and familiar with GitHub and markdown files, you can make a pull request and edit/fix the tutorial/lesson yourself. You’ll make changes to the current version and submit them. Our PierceHacker team will then review the changes and decide if they should replace the current tutorial or lesson.</summary></entry><entry><title type="html">Resumes Templates For Tranferring Students</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/06/14/ResumeOnMSWord.html" rel="alternate" type="text/html" title="Resumes Templates For Tranferring Students" /><published>2019-06-14T03:00:00-07:00</published><updated>2019-06-14T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/06/14/ResumeOnMSWord</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/06/14/ResumeOnMSWord.html">&lt;h2 id=&quot;lesson-abstact&quot;&gt;Lesson Abstact&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This lesson is to show for students how to use Microfsoft Word to build a simple and professional resume so that students can create one by themselves. Microsoft Word offers a bunch of résumé templates. Some are beautiful; some are not. They can choose which style fits them best.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Please explore the site to learn more and do not hesitate to get in touch.&lt;/p&gt;
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Show how to create a résumé using Microsoft Word
+Provide a few tips on getting students through the résumé screening process so they can press that send button with confidence.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Hope to hear from you soon.&lt;/p&gt;</content><author><name></name></author><summary type="html">PierceHacker officially gets off the ground this quarter. At its core, PierceHacker is an open pedagogy project designed to facilitate students and other members of the Pierce College community being able to become producers of knowledge rather than simply consumers.</summary></entry></feed>
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Microfsoft Word will be required for this lesson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Using and understanding Microsoft Word for tranferring students and people who want to apply for job.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents-as-many-as-needed&quot;&gt;Lesson Steps/Components [as many as needed]&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to see only those types of templates.
+![alt text][open]
+[open]: https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now, you’ll see all the different resume styles Word has to offer. There are a lot of different styles and color schemes to choose one, so pick what feels right. If you scroll down the list a bit, you’ll also see some plainer resume templates designed for different purposes—like an entry-level, chronological, or extended CV style.
+![][] (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Some of the templates are already built into Word; others are a quick, free download from Office.com (and you won’t even have to leave Word to grab them). When you click to create a resume, Word will let you know the download size (if it needs to download the template). Click the “Create” button and a few seconds later, you’ll be in your document and ready to edit.
+(https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;tip-in-building-resume&quot;&gt;Tip in Building Resume&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Resume Layout:
+ The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital.
+    &lt;blockquote&gt;
+      &lt;p&gt;a. Alignment:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Resume alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right.&lt;/li&gt;
+        &lt;li&gt;Headings, experience bullet points, educational information, and additional skills should all be left aligned.&lt;/li&gt;
+        &lt;li&gt;The exceptions are name and contact details: these can be center aligned.
+b. Length:&lt;/li&gt;
+        &lt;li&gt;Resume should be one-page long. One-page resumes are focused, concise, and uncomplicated.
+c. Margin:&lt;/li&gt;
+        &lt;li&gt;One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.”&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fonts: Style, Size and Color
+    &lt;blockquote&gt;
+      &lt;p&gt;a. Font Styles:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Before choosing a particular font style, students need to choose between serif and sans-serif fonts.&lt;/li&gt;
+        &lt;li&gt;Serifs are the small lines attached to the ends of the letters.&lt;/li&gt;
+        &lt;li&gt;Serif fonts are most commonly used in word processing or other nontraditional forms of typesetting.&lt;/li&gt;
+        &lt;li&gt;Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another
+b. Font Size:&lt;/li&gt;
+        &lt;li&gt;Resume font size should be linked directly to font style. From 11 - 12 points is better.
+c. Font Color:&lt;/li&gt;
+        &lt;li&gt;If students choose to use color, it should be a primary color and it should be muted—no bright neon! Simple and subtle reigns supreme in the resume world.&lt;/li&gt;
+        &lt;li&gt;The key with color in resumes is retaining the focus on the words rather than moving the reader’s focus to colors. Colors on resumes are meant to help convey information, not hinder it.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Uyen Do</name></author><category term="tutorials" /><summary type="html">Lesson Abstact This lesson is to show for students how to use Microfsoft Word to build a simple and professional resume so that students can create one by themselves. Microsoft Word offers a bunch of résumé templates. Some are beautiful; some are not. They can choose which style fits them best. Lesson Objectives/Outcomes Show how to create a résumé using Microsoft Word Provide a few tips on getting students through the résumé screening process so they can press that send button with confidence. Materials Microfsoft Word will be required for this lesson Overview Using and understanding Microsoft Word for tranferring students and people who want to apply for job. Lesson Steps/Components [as many as needed] First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to see only those types of templates. ![alt text][open] [open]: https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png Now, you’ll see all the different resume styles Word has to offer. There are a lot of different styles and color schemes to choose one, so pick what feels right. If you scroll down the list a bit, you’ll also see some plainer resume templates designed for different purposes—like an entry-level, chronological, or extended CV style. ![][] (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png) Some of the templates are already built into Word; others are a quick, free download from Office.com (and you won’t even have to leave Word to grab them). When you click to create a resume, Word will let you know the download size (if it needs to download the template). Click the “Create” button and a few seconds later, you’ll be in your document and ready to edit. (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png) Tip in Building Resume Resume Layout: The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital. a. Alignment: Resume alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right. Headings, experience bullet points, educational information, and additional skills should all be left aligned. The exceptions are name and contact details: these can be center aligned. b. Length: Resume should be one-page long. One-page resumes are focused, concise, and uncomplicated. c. Margin: One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.” Fonts: Style, Size and Color a. Font Styles: Before choosing a particular font style, students need to choose between serif and sans-serif fonts. Serifs are the small lines attached to the ends of the letters. Serif fonts are most commonly used in word processing or other nontraditional forms of typesetting. Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another b. Font Size: Resume font size should be linked directly to font style. From 11 - 12 points is better. c. Font Color: If students choose to use color, it should be a primary color and it should be muted—no bright neon! Simple and subtle reigns supreme in the resume world. The key with color in resumes is retaining the focus on the words rather than moving the reader’s focus to colors. Colors on resumes are meant to help convey information, not hinder it.</summary></entry><entry><title type="html">Twitter bots with no code</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/06/13/NoCodeTwitterBot.html" rel="alternate" type="text/html" title="Twitter bots with no code" /><published>2019-06-13T03:00:00-07:00</published><updated>2019-06-13T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/06/13/NoCodeTwitterBot</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/06/13/NoCodeTwitterBot.html">&lt;h2 id=&quot;twitter-bots-with-no-code&quot;&gt;Twitter bots with no code&lt;/h2&gt;
+&lt;p&gt;This is a tutorial for students who might need to use a twitter bot for classes that might need it. It could also be used for people who think it would be an interesting project to try.&lt;/p&gt;
+
+&lt;h2 id=&quot;before-building-the-bot&quot;&gt;Before building the bot.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Etiquette&lt;/strong&gt; Of course, before you make a twitterbot, you must follow the twitter guidlines and rules. otherwise your bot will get kicked and you will spend more time making new bots than seeing them work. hre is a link to a list of things your bot cant do.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/&quot;&gt;bot etiquette&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;basics-of-a-bot&quot;&gt;Basics of a bot.&lt;/h2&gt;
+&lt;p&gt;The first thing you have to do is make  a twitter acount for your bot to have. be sure to verify both a phone number and email.&lt;/p&gt;
+
+&lt;p&gt;After you have an acount, you can make an app with twitter. you can go here, to 
+&lt;a href=&quot;https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps&quot;&gt;apps.twitter.com&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;To build an application for your bot. Click the create new app button and it will pull up a new menu.&lt;/p&gt;
+
+&lt;p&gt;Give it the same name as your acount and a short description. give the app a name.&lt;/p&gt;
+
+&lt;h2 id=&quot;completing-the-app-setup&quot;&gt;Completing the app setup&lt;/h2&gt;
+&lt;p&gt;Your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, and permissions. go to the keys/access tokens tab and click the “create my access token”. this will give you 4 random codes&lt;br /&gt;
+*consumer key&lt;/p&gt;
+
+&lt;p&gt;*access token&lt;/p&gt;
+
+&lt;p&gt;*consumer secret&lt;/p&gt;
+
+&lt;p&gt;*access token. 
+(make sure it will be easy for you to find that page for later.)&lt;/p&gt;
+
+&lt;h2 id=&quot;putting-the-bot-to-work&quot;&gt;putting the bot to work&lt;/h2&gt;
+&lt;p&gt;the next step would be to go to &lt;a href=&quot;https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec&quot;&gt;labnol.org/bots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Go the choose what  to the page you have your 4 codes and copy them into their appropriate space. 
+select a search on twitter, decide the amount of time your bot will run for,and choose what you want your bot to do under “actions”. Then choose what your bot will say. hit save and it will run.
+One thing to remember, you can change what your first bot does, but once you want to make another bot, you have to pay for it.&lt;/p&gt;
+&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
+&lt;p&gt;I currently have a bot running on twitter called @trvestuff and it retweets tweets with the key words “climate change is real” from 10:30 am -1:00 pm.
+Building a bot this way takes about 10 to 20 minutes so it is not difficult to do just to test it out. I encourage you to try it.&lt;/p&gt;</content><author><name>Forrest Busching</name></author><category term="tutorials" /><summary type="html">Twitter bots with no code This is a tutorial for students who might need to use a twitter bot for classes that might need it. It could also be used for people who think it would be an interesting project to try.</summary></entry><entry><title type="html">Troubleshooting WAMAP</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/06/13/WAMAPTut.html" rel="alternate" type="text/html" title="Troubleshooting WAMAP" /><published>2019-06-13T03:00:00-07:00</published><updated>2019-06-13T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/06/13/WAMAPTut</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/06/13/WAMAPTut.html">&lt;h1 id=&quot;troubleshooting-wamap&quot;&gt;Troubleshooting WAMAP&lt;/h1&gt;
+&lt;p&gt;By Greg Slease&lt;/p&gt;
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+&lt;h3 id=&quot;section-1-general-tips-and-tricks&quot;&gt;Section 1: General Tips and Tricks&lt;/h3&gt;
+&lt;p&gt;a. The Drop Down Menu&lt;br /&gt;
+b. The Preview Button&lt;/p&gt;
+&lt;h3 id=&quot;section-2-some-common-issues-encountered-in-a-variety-of-classes&quot;&gt;Section 2: Some Common Issues encountered in a Variety of Classes&lt;/h3&gt;
+&lt;p&gt;a. Parentheses: When, Where, and How Many?&lt;br /&gt;
+b. Fractions vs. Decimals&lt;br /&gt;
+c. Numbers vs. Algebraic Expressions&lt;br /&gt;
+d. Trig Functions of Degree&amp;gt;1&lt;br /&gt;
+e. Inverse Trig Functions&lt;br /&gt;
+f. Rounding&lt;br /&gt;
+g. Question Phrasing&lt;/p&gt;
+&lt;h3 id=&quot;section-3-class-specific-issues&quot;&gt;Section 3: Class Specific Issues&lt;/h3&gt;
+&lt;p&gt;a. MATH&amp;amp;141: Graphing&lt;br /&gt;
+b. MATH&amp;amp;142: Order of Terms in an Answer&lt;br /&gt;
+c. MATH&amp;amp;146: Why does WAMAP Care About a One Ten-Thousandth of a Percent Error?&lt;br /&gt;
+d. MATH&amp;amp;152: +C&lt;/p&gt;
+&lt;h3 id=&quot;section-4-faulty-questions&quot;&gt;Section 4: Faulty Questions&lt;/h3&gt;
+
+&lt;h2 id=&quot;introduction-1&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This Tutorial is designed as a guide to help students troubleshoot commonly encountered issues when doing homework in WAMAP. While not all possible issues will be covered, we will discuss frequently asked questions regarding answer submission in WAMAP. The issues we will cover have been reported as commonly encountered problems by students, tutors, and math professors.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1-general-tips-and-tricks-1&quot;&gt;Section 1: General Tips and Tricks&lt;/h2&gt;
+&lt;h3 id=&quot;a-the-drop-down-menu&quot;&gt;a. The Drop Down Menu&lt;/h3&gt;
+&lt;p&gt;On some questions, the author may enable a drop down menu that can act as a template and/or a guide for how to submit your answers. If there is ever any doubt about syntax in your mind, heck this menu.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-preview&quot;&gt;b. Preview&lt;/h3&gt;
+&lt;p&gt;Many questions will also feature a preview button next to the answer submission box. Whenever possible, it is a good idea to take a quick look at the preview before you submit an answer. This will show you exactly how WAMAP is interpreting your submission, and it can catch some mistakes before they are made. For example, say your answer is a function in terms of “x,” but you made a typo and accidentally typed “z” instead. The preview feature will catch this and alert you to the issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2-some-common-issues-encountered-in-a-variety-of-classes-1&quot;&gt;Section 2: Some Common Issues encountered in a Variety of Classes&lt;/h2&gt;
+&lt;h3 id=&quot;a-parentheses-when-where-and-how-many&quot;&gt;a. Parentheses: When, Where, and How Many?&lt;/h3&gt;
+&lt;p&gt;Parentheses are a big deal in WAMAP, and in mathematics in general. There are a lot of situations in which parentheses can make or break your answer. Sometimes when we write down an answer on paper, it may make sense to skip the seemingly repetitive parentheses, but when it comes to electronic answer submission, they are vital. As a general rule of thumb, more parentheses is typically a good idea, but there are a lot of exceptions to this. Let’s take a look at an answer that might make sense to us without parentheses, but that WAMAP sees as something completely different.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/parentheses_wrong.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In this example, not including parentheses in the numerator results in WAMAP completely misinterpreting the answer. Now let’s check out that same problem, this time with all of the necessary parentheses.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/parentheses_right.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;b-fractions-vs-decimals&quot;&gt;b. Fractions vs. Decimals&lt;/h3&gt;
+&lt;p&gt;Knowing when to use fractions and when to use decimals is an important skill in WAMAP. Some questions will explicitly state whether they require an answer as one r the other, but many others will not. In general, it is often not a bad idea to use fractions, because they are in general more accurate. That being said, the most important thing when given numerical answers is to check whether or not the question specifies a format.&lt;/p&gt;
+
+&lt;h3 id=&quot;c-numbers-vs-algebraic-functions&quot;&gt;c. Numbers vs. Algebraic Functions&lt;/h3&gt;
+&lt;p&gt;WAMAP is designed as a dynamic program that can not only check and accept answers, but perform some calculations for you. This feature an sometimes be used to avoid possible errors. For example, let’s say that you can calculate the answer to a question by subtracting 1/4 from 1/3. If the questions specifically asks for your answer as a fraction, decimal, or number, you will need to do this calculation on your own. However, if no specific format is given, it is frequently possible to simply enter “1/3-1/4” as your answer, and WAMAP will be able to do the subtraction for you, thus eliminating possible rounding and/or arithmetic errors.&lt;/p&gt;
+
+&lt;h3 id=&quot;d-trig-functions-of-degree1&quot;&gt;d. Trig Functions of Degree&amp;gt;1&lt;/h3&gt;
+&lt;p&gt;Another common requirement is to enter trigonometric functions whose degree is greater than one. For example, we may need to enter an answer like &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/sin^2(x).png&quot; /&gt;.  The impulse here may be to enter “sin^2(x)” into WAMAP, however this will not be interpreted correctly. The best way to go about entering an answer like this is “(sin(x))^2.”&lt;/p&gt;
+&lt;h3 id=&quot;e-inverse-trig-functions&quot;&gt;e. Inverse Trig Functions&lt;/h3&gt;
+&lt;p&gt;Now that we know how to enter &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/sin^2(x).png&quot; /&gt;, let’s take a look at how to enter an inverse trig function like arc tangent, cosine inverse, etc. In most math classes, we could use expressions such as “&lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/arctan(x).png&quot; /&gt;” and “&lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/tan-1(x).png&quot; /&gt;” interchangeably. However, WAMAP will only accept one of these. Entering “(tan(x))^-1” will not work. Regardless of the trig function in question, the inverse must be entered as the “arc” version (e.g. ![equation]&lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/arcsin(x).png&quot; /&gt;, &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/arccos(x).png&quot; /&gt;, &lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/arctan(x).png&quot; /&gt;, etc).&lt;/p&gt;
+&lt;h3 id=&quot;f-rounding&quot;&gt;f. Rounding&lt;/h3&gt;
+&lt;p&gt;Moving back to numerical answers for a moment, let’s talk about rounding. Rounding can be a bit of a challenge in WAMAP due to the variety of authors of questions. Some authors may specifically say “round to the nearest 3 decimal places,” or “round to the nearest whole number,” while others may not be quite as straightforward. If the question does specify, always round exactly as far as the question requires. If the question does not specify how far to round your answer, it is best not to round at all. In cases like this, you’ll want to either type out as many digits as your calculating device gives you, or if possible, simply enter an exact answer. Exact vs. approximate answers will be discussed in the next section.&lt;/p&gt;
+&lt;h3 id=&quot;g-question-phrasing&quot;&gt;g. Question Phrasing&lt;/h3&gt;
+&lt;p&gt;One of the most important parts of succeeding in WAMAP homework is the ability to carefully read the entire question. Some questions may initially appear to be asking for one thing, but are actually asking for something entirely different. When in doubt, always reread the question. One of the most frequent examples of how skimming a question can be detrimental is actually directly related to the section above regarding rounding. Some questions will not accept a rounded answer; only exact answers are allowed. For example, say a question is asking us to find the exact circumference of a circle of radius 1. We could estimate the answer to this question via a decimal approximation, but this would not be exact. While an answer like “6.283185307” is very close to the exact answer, you really can’t get more exact here than just “2pi.”&lt;/p&gt;
+&lt;h2 id=&quot;section-3-class-specific-issues-1&quot;&gt;Section 3: Class Specific Issues&lt;/h2&gt;
+&lt;h3 id=&quot;a-math141-graphing&quot;&gt;a. MATH&amp;amp;141: Graphing&lt;/h3&gt;
+&lt;p&gt;Graphing on WAMAP can be a bit of a challenge, and there’s not really a whole lot to see here, save for one piece of advise: the bigger the screen you can do problems like this on, the easier it is to get it right.&lt;/p&gt;
+&lt;h3 id=&quot;b-math142-order-of-terms-in-an-answer&quot;&gt;b. MATH&amp;amp;142: Order of Terms in an Answer&lt;/h3&gt;
+&lt;p&gt;We’ve covered a few issues that we might run into trying to enter trig functions, but let’s address one additional very rare problem that can arise in MATH&amp;amp;142. Occasionally, some problems may reject a correct answer due to the in which it was entered. For example, the correct answer might be may be “&lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/3cos(8x)+1.png&quot; /&gt;,” but the question responds that it is wrong. In cases like this, if you are sure of your answer, it may be worth trying to retype it as “&lt;img src=&quot;/pierce-hacker/assets/images/WAMAPTut/1+3cos(8x).png&quot; /&gt;.” If this works, contact your instructor as soon as possible, because this is an indicator that the problem is has an error in its coding. In reality, these answers are the same, and there is no mathematical rule that states one is preferable to the other.&lt;/p&gt;
+&lt;h3 id=&quot;c-math146-why-does-wamap-care-about-a-one-ten-thousandth-of-a-percent-error&quot;&gt;c. MATH&amp;amp;146: Why Does WAMAP Care About a One Ten-Thousandth of a Percent Error?&lt;/h3&gt;
+&lt;p&gt;A common problem you may come across in a WAMAP based Statistics class that tends to arise in the unit about hypothesis testing is that you may be penalized for seemingly negligible errors (e.g. being off by 0.0001). While this seems trivial, this small error is actually an indicator that you may have used the wrong test on your calculator. It is difficult to make a judgement about what type of error this is in the absence of a specific situation, but a good rule of thumb is to try using your second guess for a hypothesis test.&lt;/p&gt;
+
+&lt;h3 id=&quot;d-math152-c&quot;&gt;d. MATH&amp;amp;152: +C&lt;/h3&gt;
+&lt;p&gt;In Calculus II, the concept of an indefinite integral is introduced. A part of correctly answering these question (both written and in WAMAP) is to be sure to include the “+C” term at the end of your answer. After doing worksheets, quizzes, tests, etc. in class, it can become second nature to simply follow up your answer to such a problem by always adding the “+C.” While this is a good habit to get into, it’s important to always check the answer box to make sure that it is necessary. Some question may already have the “+C” dded to the answer for you, while others may require you to type it out yourself.&lt;/p&gt;
+&lt;h2 id=&quot;section-4-faulty-questions-1&quot;&gt;Section 4: Faulty Questions&lt;/h2&gt;
+&lt;p&gt;Though most questions work fine, you may occasionally run into a question that seems to not be able to accept a correct answer (see section 3b for an example). In cases like this, it is possible that the question has an error in its coding. If you encounter this issue, it is important to contact your instructor about it, as they may be able to contact the author to correct the issue.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Written with &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;.
+&lt;!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0MTc3MjU0NCwtMTI2NDI4NDA0MywzOD
+Y5MzY5NzMsMzg2OTM2OTczLC00OTYwMjM0NSwzODY5MzY5NzNd
+fQ==
+--&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Greg Slease</name></author><category term="tutorials" /><summary type="html">Troubleshooting WAMAP By Greg Slease Contents Introduction Section 1: General Tips and Tricks a. The Drop Down Menu b. The Preview Button Section 2: Some Common Issues encountered in a Variety of Classes a. Parentheses: When, Where, and How Many? b. Fractions vs. Decimals c. Numbers vs. Algebraic Expressions d. Trig Functions of Degree&amp;gt;1 e. Inverse Trig Functions f. Rounding g. Question Phrasing Section 3: Class Specific Issues a. MATH&amp;amp;141: Graphing b. MATH&amp;amp;142: Order of Terms in an Answer c. MATH&amp;amp;146: Why does WAMAP Care About a One Ten-Thousandth of a Percent Error? d. MATH&amp;amp;152: +C Section 4: Faulty Questions</summary></entry><entry><title type="html">Creating a twitter bot using Google sheet</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/06/12/GSheetTwitterBot.html" rel="alternate" type="text/html" title="Creating a twitter bot using Google sheet" /><published>2019-06-12T03:00:00-07:00</published><updated>2019-06-12T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/06/12/GSheetTwitterBot</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/06/12/GSheetTwitterBot.html">&lt;h1 id=&quot;introduction-creating-a-twitter-bot-using-google-sheet&quot;&gt;Introduction: Creating a twitter bot using Google sheet&lt;/h1&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;please-read-twitter-bot-etiquette-before-proceeding&quot;&gt;PLEASE READ &lt;a href=&quot;http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/&quot;&gt;Twitter Bot Etiquette&lt;/a&gt; BEFORE PROCEEDING.&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-is-a-twitter-bot&quot;&gt;&lt;strong&gt;What is a Twitter Bot?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. Wikipedia Bots date back to the 1980s, when programmers using a service called Internet Relay Chat began making user profiles to serve narrowly defined, pre-programmed functions. The human user could ask the bot for date and time, for example, and the bot could provide. Soon, they were serving essential internet functions, like providing backup to Wikipedia’s human editors (bots can flag possible copyright violations, or add links to stories) and trawling sites to for Google and its search engine.&lt;/p&gt;
+
+&lt;p&gt;As the bot’s domain has expanded, so have the tool for its creation. Many bots are still built with basic programming languages, like this DIY bot made with NodeJS that will respond to text messages. But the most sophisticated bots are actually artificial intelligence, cannibalizing existing information, running it through a neural network, and spitting out novel ideas or images based on what it’s learned. A recent example includes this bot that turns words into strange, grainy, and theoretically related images.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;five-things-to-know-about-twitter-about-bots&quot;&gt;&lt;strong&gt;Five things to know about twitter about bots.&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;It’s no secret that there are bots on Twitter. But how do bot accounts — which automatically create tweets without direct human oversight — actually affect the mix of content on Twitter?&lt;/p&gt;
+
+&lt;p&gt;A new Pew Research Center study, conducted over a six-week period in the summer of 2017, examined 1.2 million tweets with URL links to determine what share of links were posted by bots on Twitter. The study identified bots using Botometer, which learns patterns from hand-classified account data produced by trained experts.&lt;/p&gt;
+
+&lt;p&gt;To count how many times human and bot accounts shared links to particular websites, we wrote a computer program to follow each shared link to its destination. Then we isolated the 2,315 most commonly shared sites with meaningful content and classified the kinds of content that appear on those sites.&lt;/p&gt;
+
+&lt;p&gt;Here is a link to five key takeaways from &lt;a href=&quot;https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/&quot;&gt;Pew Research&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/&quot;&gt;Zach Whalen spreadsheet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/&quot;&gt;Pew Research&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;general-setup-instructions&quot;&gt;General Setup Instructions&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;I recommend that you create a separate &lt;a href=&quot;Gmail.com&quot;&gt;Gmail&lt;/a&gt; account for your bot so you can have everything apart from your personal account.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The following steps are general for any type of bot you want to create. To get started, make a copy of &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Cbg_6pYN04XtDHpDLtxAP3ExQEBL8PYBXBQ1E5_Sq30/copy&quot;&gt;Zach’s spreadsheet&lt;/a&gt; and save it in Google drive. It &lt;strong&gt;CAN NOT&lt;/strong&gt; be saved on your desk top because it will not work, then proceed through the steps below.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Create a Twitter account for your Bot&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;https://twitter.com/&quot;&gt;Twitter&lt;/a&gt; and sign up for a new account. You can use name you created for the bots Gmail account, go ahead and confirm the account with the email address and do some of the basic profile setup.&lt;/p&gt;
+
+&lt;p&gt;After you click on the “Sign up” tab it will ask you add a phone number, you can skip this part for now but you will need to do it later on in the steps. You can also click where it says “use email instead” and use the Gmail you created for your bot.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Creat twitter.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Open your Google Sheet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don’t have to worry about losing any information.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Adding twitter name.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Apply for a Twitter developer account&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps&quot;&gt;Twitter Apps&lt;/a&gt; click on the “Create App”. You will have a pop-up asking you to apply for a developer account, go ahead and apply.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/create twitter app.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/developer popup.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The next page you’ll be asked to select a primary use for your Twitter API, you can only select one. I would just select “Student” then click next. On this step is when you’ll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked &lt;strong&gt;“What country do you live in?”&lt;/strong&gt; and &lt;strong&gt;“What would you like us to call you?”&lt;/strong&gt; you can put in whatever you like.&lt;/p&gt;
+
+&lt;p&gt;Next, you’ll be asked &lt;strong&gt;“How will you use the Twitter API or Twitter data?”&lt;/strong&gt;. You will have to type in a minimum of 200 characters in this box.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/How will use.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;“The specifics”&lt;/strong&gt; part select NO for “Are you planning to analyze Twitter data?”, Yes for &lt;strong&gt;“Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?&lt;/strong&gt;” and just copy and paste the same thing you wrote in the first block, and select no for the last two question and click next.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Specifics.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The last step will be is to verify that everything you just did looks correct click &lt;strong&gt;Next&lt;/strong&gt;, if not just click on the back tab at the bottom and make the needed corrections. If everything is good click on &lt;strong&gt;“Looks Good”&lt;/strong&gt; and accept the &lt;strong&gt;“Terms”&lt;/strong&gt; and &lt;strong&gt;“Submit”&lt;/strong&gt; the application.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Conferm account.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You will get an email requesting you to confirm you email address. After confirming it might take some time until you’re able to create an app. So just keep checking the Bots email account.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Create a Twitter App for your Bot&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This application (“app”) is the method that your spreadsheet will use to talk to Twitter. It’s possible to use Apps for multiple bots or accounts — in fact, this is how they’re designed — but I like to make one for each bot account so that if one gets suspended the others aren’t necessarily in jeopardy at the same time.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;https://developer.twitter.com/en/apps&quot;&gt;Twitter Apps&lt;/a&gt; and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The &lt;strong&gt;App’s name&lt;/strong&gt; needs to be unique, so you can name it the same it based on your bot’s name, but if you get an error saying that name has been taken just change it.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/create twitter app.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In the &lt;strong&gt;App description&lt;/strong&gt; just type a short explanation of your bot. For the &lt;strong&gt;Website URL&lt;/strong&gt; you can use your bots name and just add a “.com” at the end. Leave the &lt;strong&gt;Enable sign in&lt;/strong&gt; the box unchecked for now and leave the &lt;strong&gt;“Callback”&lt;/strong&gt; field blank for now.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/App details.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You can leave all the other &lt;strong&gt;URLs&lt;/strong&gt; blank because it’s not required. For the &lt;strong&gt;Tell us how this app will be used&lt;/strong&gt; you can use the same description that you used before. After that click &lt;strong&gt;Create&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/tell us how.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You will get a &lt;strong&gt;Developer Terms&lt;/strong&gt; read the information and click &lt;strong&gt;Create&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Developer terms.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Complete App Setup and Enter Keys into the Spreadsheet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You App has four tabs: &lt;strong&gt;APP Details, Keys and Access Tokens, and Permissions&lt;/strong&gt;. Under Details, make sure that the app’s access level is set to “Read and Write,” and if not, click edit and change it.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/App permissions.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Under the Keys and Access Tokens tab, use the button to “&lt;strong&gt;Generate”&lt;/strong&gt; . This will authorize your app to interface with your account. (I know, it seems redundant.)&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/keys and token.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret) from that tab into the green cells under Step 3 in your spreadsheet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: The &lt;strong&gt;Consumer API Key&lt;/strong&gt; and &lt;strong&gt;Consumer Secret&lt;/strong&gt; are not the same thing as the &lt;strong&gt;Access Token&lt;/strong&gt; and &lt;strong&gt;Access token Secret&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/step 3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Locate your Google Spreadsheet’s “Project Key”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is your spreadsheet’s unique ID within Google. To find yours, first open “Tools-&amp;gt; Script Editor…” to bring up the Script Editor.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Scrip editor.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In the Script Editor, open “File-&amp;gt; Project Properties,” and locate your “Project key” in the table that you’ll see there.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Project properties.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Project key.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Copy and paste that Project key into the green cell under Step 4.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/step 4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Add “Callback” Value to Twitter App&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After completing Step 4, the red cell under Step 5 should automatically change to include your Project key as part of a URL.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/step 5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Go back to your Twitter &lt;strong&gt;App’s Detail&lt;/strong&gt; tab click edit and paste that URL into “Callback URL” field. Also check the &lt;strong&gt;Enable Sign in with Twitter&lt;/strong&gt; box.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/CAll back url.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. Select a Data Sheet and Generate a Preview of its Output&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Select a data sheet from the drop down under Step 6, it would be best to &lt;strong&gt;Select from Columns or Rows&lt;/strong&gt; for now. If you leave it on &lt;strong&gt;eBooks&lt;/strong&gt; you will have a connect issue.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/step 6.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;“Bot”&lt;/strong&gt; menu in your Spreadsheet, select &lt;strong&gt;“Generate Preview”&lt;/strong&gt;. (Each of the four options has specific setup instructions below, but they’re all pre-populated with sample content for this setup step.)&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/generate preview output.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At the bottom of the spreadsheet switch to the &lt;strong&gt;“Preview Output”&lt;/strong&gt; sheet to see 15 sample tweets generated from the selected data sheet. You can edit these data sheets to your own content now, or you can wait until the rest of the setup is complete.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/preview output.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Generating this preview will require you to authorize the scripts in this spreadsheet, so you should agree to grant it permission if prompted.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/Authorization.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At this point you’ll get a pop-up saying &lt;strong&gt;App isn’t verified&lt;/strong&gt; just click on &lt;strong&gt;Advance&lt;/strong&gt; and the on &lt;strong&gt;Go to Copy of Bot (unsafe)&lt;/strong&gt; and on the next pop-up &lt;strong&gt;Allow&lt;/strong&gt;. Don’t worry your computer will not blow up on you. It is need so the spreadsheet can talk to your twitter bot.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/waring.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9. Test Twitter Authorization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You’re almost done! From the &lt;strong&gt;“Bot”&lt;/strong&gt; menu above, select &lt;strong&gt;“Send a Test Tweet”&lt;/strong&gt;. If everything has been set up correctly, you should see a pop up inviting you to authenticate your app with your Twitter account. It’s pretty easy. Follow the link, click &lt;strong&gt;authorize&lt;/strong&gt;, then close the new tab when it says. “Success!”&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/send test tweet.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/send test tweet popup.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/twitter authorization.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Re-run Send a Test Tweet, and check your time line. Hopefully it worked!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/twitter bot working.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10. Set Post Timing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Decide how often you want your bot posting, and select an option from the drop down under Step 8. Unfortunately, these are the only options, and the actually timing is to some extent subject to Google’s whims. You won’t, for example, be able to specify your bot to post at exactly 10:34 every day.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/step 8.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11. Start it up!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If everything has gone well so far and your data sheet is populated with your content, then you’re ready to start sending out tweets. Select “Start Posting Tweets” from the Bot menu in your spreadsheet. If ever you decide to stop your bot, then use the “Stop Posting Tweets” option under the Bot menu.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/start posting.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You can change the data sheet selection and edit the data sheet contents without stopping the tweeting.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/editing colums.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GSheetTwitterBot/columns.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;It will simply use the updated setting whenever it next attempts to send a tweet. You will, however, have to stop and restart the posting if you want to change the timing.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;I have a bot called &lt;a href=&quot;https://twitter.com/robobotpr20&quot;&gt;RobobotPR20&lt;/a&gt; running that’s tweeting random “Roses are red” poems&lt;/p&gt;</content><author><name>Yamill Monteagudo</name></author><category term="tutorials" /><summary type="html">Introduction: Creating a twitter bot using Google sheet PLEASE READ Twitter Bot Etiquette BEFORE PROCEEDING. What is a Twitter Bot? A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. Wikipedia Bots date back to the 1980s, when programmers using a service called Internet Relay Chat began making user profiles to serve narrowly defined, pre-programmed functions. The human user could ask the bot for date and time, for example, and the bot could provide. Soon, they were serving essential internet functions, like providing backup to Wikipedia’s human editors (bots can flag possible copyright violations, or add links to stories) and trawling sites to for Google and its search engine. As the bot’s domain has expanded, so have the tool for its creation. Many bots are still built with basic programming languages, like this DIY bot made with NodeJS that will respond to text messages. But the most sophisticated bots are actually artificial intelligence, cannibalizing existing information, running it through a neural network, and spitting out novel ideas or images based on what it’s learned. A recent example includes this bot that turns words into strange, grainy, and theoretically related images. Five things to know about twitter about bots. It’s no secret that there are bots on Twitter. But how do bot accounts — which automatically create tweets without direct human oversight — actually affect the mix of content on Twitter? A new Pew Research Center study, conducted over a six-week period in the summer of 2017, examined 1.2 million tweets with URL links to determine what share of links were posted by bots on Twitter. The study identified bots using Botometer, which learns patterns from hand-classified account data produced by trained experts. To count how many times human and bot accounts shared links to particular websites, we wrote a computer program to follow each shared link to its destination. Then we isolated the 2,315 most commonly shared sites with meaningful content and classified the kinds of content that appear on those sites. Here is a link to five key takeaways from Pew Research. References Zach Whalen spreadsheet Pew Research. General Setup Instructions I recommend that you create a separate Gmail account for your bot so you can have everything apart from your personal account. The following steps are general for any type of bot you want to create. To get started, make a copy of Zach’s spreadsheet and save it in Google drive. It CAN NOT be saved on your desk top because it will not work, then proceed through the steps below. Tutorial 1. Create a Twitter account for your Bot Go to Twitter and sign up for a new account. You can use name you created for the bots Gmail account, go ahead and confirm the account with the email address and do some of the basic profile setup. After you click on the “Sign up” tab it will ask you add a phone number, you can skip this part for now but you will need to do it later on in the steps. You can also click where it says “use email instead” and use the Gmail you created for your bot. 2. Open your Google Sheet Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don’t have to worry about losing any information. 3. Apply for a Twitter developer account Go to Twitter Apps click on the “Create App”. You will have a pop-up asking you to apply for a developer account, go ahead and apply. The next page you’ll be asked to select a primary use for your Twitter API, you can only select one. I would just select “Student” then click next. On this step is when you’ll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked “What country do you live in?” and “What would you like us to call you?” you can put in whatever you like. Next, you’ll be asked “How will you use the Twitter API or Twitter data?”. You will have to type in a minimum of 200 characters in this box. For “The specifics” part select NO for “Are you planning to analyze Twitter data?”, Yes for “Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?” and just copy and paste the same thing you wrote in the first block, and select no for the last two question and click next. The last step will be is to verify that everything you just did looks correct click Next, if not just click on the back tab at the bottom and make the needed corrections. If everything is good click on “Looks Good” and accept the “Terms” and “Submit” the application. You will get an email requesting you to confirm you email address. After confirming it might take some time until you’re able to create an app. So just keep checking the Bots email account. 4. Create a Twitter App for your Bot This application (“app”) is the method that your spreadsheet will use to talk to Twitter. It’s possible to use Apps for multiple bots or accounts — in fact, this is how they’re designed — but I like to make one for each bot account so that if one gets suspended the others aren’t necessarily in jeopardy at the same time. Go to Twitter Apps and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The App’s name needs to be unique, so you can name it the same it based on your bot’s name, but if you get an error saying that name has been taken just change it. In the App description just type a short explanation of your bot. For the Website URL you can use your bots name and just add a “.com” at the end. Leave the Enable sign in the box unchecked for now and leave the “Callback” field blank for now. You can leave all the other URLs blank because it’s not required. For the Tell us how this app will be used you can use the same description that you used before. After that click Create. You will get a Developer Terms read the information and click Create 5. Complete App Setup and Enter Keys into the Spreadsheet You App has four tabs: APP Details, Keys and Access Tokens, and Permissions. Under Details, make sure that the app’s access level is set to “Read and Write,” and if not, click edit and change it. Under the Keys and Access Tokens tab, use the button to “Generate” . This will authorize your app to interface with your account. (I know, it seems redundant.) Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret) from that tab into the green cells under Step 3 in your spreadsheet. Note: The Consumer API Key and Consumer Secret are not the same thing as the Access Token and Access token Secret. 6. Locate your Google Spreadsheet’s “Project Key” This is your spreadsheet’s unique ID within Google. To find yours, first open “Tools-&amp;gt; Script Editor…” to bring up the Script Editor. In the Script Editor, open “File-&amp;gt; Project Properties,” and locate your “Project key” in the table that you’ll see there. Copy and paste that Project key into the green cell under Step 4. 7. Add “Callback” Value to Twitter App After completing Step 4, the red cell under Step 5 should automatically change to include your Project key as part of a URL. Go back to your Twitter App’s Detail tab click edit and paste that URL into “Callback URL” field. Also check the Enable Sign in with Twitter box. 8. Select a Data Sheet and Generate a Preview of its Output Select a data sheet from the drop down under Step 6, it would be best to Select from Columns or Rows for now. If you leave it on eBooks you will have a connect issue. From the “Bot” menu in your Spreadsheet, select “Generate Preview”. (Each of the four options has specific setup instructions below, but they’re all pre-populated with sample content for this setup step.) At the bottom of the spreadsheet switch to the “Preview Output” sheet to see 15 sample tweets generated from the selected data sheet. You can edit these data sheets to your own content now, or you can wait until the rest of the setup is complete. Generating this preview will require you to authorize the scripts in this spreadsheet, so you should agree to grant it permission if prompted. At this point you’ll get a pop-up saying App isn’t verified just click on Advance and the on Go to Copy of Bot (unsafe) and on the next pop-up Allow. Don’t worry your computer will not blow up on you. It is need so the spreadsheet can talk to your twitter bot. 9. Test Twitter Authorization You’re almost done! From the “Bot” menu above, select “Send a Test Tweet”. If everything has been set up correctly, you should see a pop up inviting you to authenticate your app with your Twitter account. It’s pretty easy. Follow the link, click authorize, then close the new tab when it says. “Success!” Re-run Send a Test Tweet, and check your time line. Hopefully it worked! 10. Set Post Timing Decide how often you want your bot posting, and select an option from the drop down under Step 8. Unfortunately, these are the only options, and the actually timing is to some extent subject to Google’s whims. You won’t, for example, be able to specify your bot to post at exactly 10:34 every day. 11. Start it up! If everything has gone well so far and your data sheet is populated with your content, then you’re ready to start sending out tweets. Select “Start Posting Tweets” from the Bot menu in your spreadsheet. If ever you decide to stop your bot, then use the “Stop Posting Tweets” option under the Bot menu. You can change the data sheet selection and edit the data sheet contents without stopping the tweeting. It will simply use the updated setting whenever it next attempts to send a tweet. You will, however, have to stop and restart the posting if you want to change the timing. Example I have a bot called RobobotPR20 running that’s tweeting random “Roses are red” poems</summary></entry><entry><title type="html">Writing a Lesson</title><link href="http://localhost:4000/pierce-hacker/contribute/2019/06/05/author_tutorial.html" rel="alternate" type="text/html" title="Writing a Lesson" /><published>2019-06-05T03:00:00-07:00</published><updated>2019-06-05T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/contribute/2019/06/05/author_tutorial</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/contribute/2019/06/05/author_tutorial.html">&lt;h2 id=&quot;lesson-abstract&quot;&gt;Lesson Abstract&lt;/h2&gt;
+&lt;p&gt;This lesson is designed to both show how to make a lesson formatted for PierceHacker and also to serve as an example to aid in the creation of other lessons. The &lt;a href=&quot;https://raw.githubusercontent.com/jloan/pierce-hacker/gh-pages/_posts/2019-06-14-author_tutorial.md&quot;&gt;raw text&lt;/a&gt; for this lesson is also available so users can practice modifying it. A &lt;strong&gt;&lt;a href=&quot;https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md&quot;&gt;lesson template&lt;/a&gt;&lt;/strong&gt; is also available.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Authors of lessons for PierceHacker should be able to use this lesson as a guideline to make their own.&lt;/li&gt;
+  &lt;li&gt;Novices will be able to create a basic lesson.&lt;/li&gt;
+  &lt;li&gt;Authors will be able to reference this lesson to review their own work before submitting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Growth mindset!&lt;/li&gt;
+  &lt;li&gt;To complete a lesson in markdown, you will need internet access and your favorite web browser&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;A laptop or desktop computer is highly recommended over a phone or tablet&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;A markdown editing client is recommended
+    &lt;ul&gt;
+      &lt;li&gt;A great in-browser editor for beginners is &lt;a href=&quot;https://dillinger.io&quot;&gt;Editor.md&lt;/a&gt;, this lesson was created with &lt;a href=&quot;https://stackedit.io&quot;&gt;StackEdit&lt;/a&gt; which is also free and easy to use.&lt;/li&gt;
+      &lt;li&gt;Check &lt;a href=&quot;https://www.slant.co/search?query=markdown%20editors&quot;&gt;this page from Slant.co&lt;/a&gt; for other options
+        &lt;blockquote&gt;
+          &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdownguide.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;          &lt;/div&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The obvious goal of these lessons is to provide a resource to students &amp;amp; professor. However, &lt;a href=&quot;http://openpedagogy.org/open-pedagogy/&quot;&gt;open pedagogy&lt;/a&gt; is at the heart of PierceHacker - we hope authors will gain as much from writing a lesson as they give. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents&quot;&gt;Lesson Steps/Components&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-know-your-purpose-define-outcomes&quot;&gt;1. Know your purpose, define outcomes&lt;/h3&gt;
+&lt;p&gt;Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. Recap:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Clearly define 2-3 learning outcomes&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shorten long lessons or split them into smaller ones&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-understand-and-consider-your-audience&quot;&gt;2. Understand and consider your audience&lt;/h3&gt;
+&lt;p&gt;Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. Recap:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Decide if your tutorial is for a novice, intermediate, or advanced user&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep this experience level in mind with each step - don’t over/under explain&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-determine-what-the-user-will-need&quot;&gt;3. Determine what the user will need&lt;/h3&gt;
+&lt;p&gt;Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. &lt;a href=&quot;https://www.libreoffice.org/&quot;&gt;Libre Office&lt;/a&gt; and &lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Docs&lt;/a&gt; also provide free word processors. Provide links to required and recommended software. Recap:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Be explicit about what the user will need; i.e. internet access, hardware, operating system, software&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use free software whenever possible&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide links to required/recommended software or website&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-start-drafting&quot;&gt;4. Start drafting&lt;/h3&gt;
+&lt;p&gt;Start with the &lt;a href=&quot;https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md&quot;&gt;lesson template&lt;/a&gt;. By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Start filling out the &lt;a href=&quot;https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md&quot;&gt;lesson template&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Try not to use too many steps or really long steps&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-review-your-work-and-make-edits&quot;&gt;5. Review your work and make edits&lt;/h3&gt;
+&lt;p&gt;First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the lesson - is the voice consistent? Are there too many or too few assumptions about the user’s knowledge? Are there any required materials that aren’t listed (with links when possible)?&lt;/p&gt;
+
+&lt;p&gt;Also consider how easy it is to skim your lesson. Using headers and other formatting tools to make certain points stick out makes your lesson easier to use. It also helps for users who are coming back to your lesson for something specific. You may choose to restate key points at the end of each step as this document does or you may have a different approach. Try to choose a style that is accessible and makes sense for your lesson. Recap:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Make sure the voice is consistent and speaks to your audience&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ensure all required materials are listed (with links when possible)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Make sure your lesson is easy to skim - use formatting&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;credits-further-reading-etc&quot;&gt;Credits, Further Reading, etc.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.slant.co/&quot;&gt;https://www.slant.co/&lt;/a&gt;
+&lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;https://www.markdownguide.org/&lt;/a&gt;
+&lt;a href=&quot;http://openpedagogy.org/&quot;&gt;http://openpedagogy.org/&lt;/a&gt;
+&lt;!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5OTM2MTc5MCw4NTU3Mzc1MDYsMTQyMj
+U5NTc5MywtMTY4MTI2Nzk2NiwxNzYxMDEzOTc1LC0xMzMzNzM4
+NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEzODMsMj
+A4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIx
+MDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC
+0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1
+MzAwMzkxXX0=
+--&gt;&lt;/p&gt;</content><author><name></name></author><category term="contribute" /><summary type="html">Lesson Abstract This lesson is designed to both show how to make a lesson formatted for PierceHacker and also to serve as an example to aid in the creation of other lessons. The raw text for this lesson is also available so users can practice modifying it. A lesson template is also available.</summary></entry><entry><title type="html">Excel Tutorial for Stat Students</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/05/22/ExcelTutForStat.html" rel="alternate" type="text/html" title="Excel Tutorial for Stat Students" /><published>2019-05-22T03:00:00-07:00</published><updated>2019-05-22T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/05/22/ExcelTutForStat</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/05/22/ExcelTutForStat.html">&lt;h2 id=&quot;lesson-abstact&quot;&gt;Lesson Abstact&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Excel has the ability to formulate equations and create graphs to help users evaluate the data they want to use. The lesson will be about how to apply those functions to analyze the input value. Using these data to have many different graphs. Those lesson will be more specific for Stat students, who are looking for how to deal with Excel functions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Evaluate data using formulas for a desired output
+Create graphs using given data to have a visual representation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Excel will be required for this lesson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Using and understanding Microsoft Excel for Statistics students&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents-as-many-as-needed&quot;&gt;Lesson Steps/Components [as many as needed]&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;sum-in-excel&quot;&gt;SUM in Excel&lt;/h2&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UgeEeEESJxE&quot;&gt;How to Make a Totaling Column Formula in Excel&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;histogram&quot;&gt;Histogram&lt;/h2&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=53DOu_vstvI&quot;&gt;Creating a Histogram in Microsoft Excel&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;pie-chart&quot;&gt;Pie Chart&lt;/h2&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZKa35Iz-aZ4&quot;&gt;Creating a Pie Chart&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;cluster-column-and-stack-column-in-excel&quot;&gt;Cluster column and Stack Column in Excel&lt;/h2&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bQs0p3VxmZQ&quot;&gt;Clustered Stacked Bar Chart In Excel&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Uyen Do, Luke, &amp; Ivan</name></author><category term="tutorials" /><summary type="html">Lesson Abstact Excel has the ability to formulate equations and create graphs to help users evaluate the data they want to use. The lesson will be about how to apply those functions to analyze the input value. Using these data to have many different graphs. Those lesson will be more specific for Stat students, who are looking for how to deal with Excel functions.</summary></entry><entry><title type="html">How to make a graph on microsoft excel</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/05/21/ExcelGraph.html" rel="alternate" type="text/html" title="How to make a graph on microsoft excel" /><published>2019-05-21T03:00:00-07:00</published><updated>2019-05-21T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/05/21/ExcelGraph</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/05/21/ExcelGraph.html">&lt;h2 id=&quot;lesson-abstact&quot;&gt;Lesson Abstact&lt;/h2&gt;
+&lt;p&gt;A simplified tutorial showing students how to create a graph on excel.&lt;/p&gt;
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Student will be able to set up a chart.&lt;/li&gt;
+  &lt;li&gt;Student will be able to insert data into a chart&lt;/li&gt;
+  &lt;li&gt;Student will be able to label data&lt;/li&gt;
+  &lt;li&gt;Student will be able to design the chart&lt;/li&gt;
+  &lt;li&gt;Student will be able to compare the data&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;Microsoft Excel and a Microsoft Excel compatible device.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Students at pierce generally have a hard time using the microsoft office program, Excel. This information became understood through the surveys we distributed for our pierce hacker project. Over 2/3 of our survey participants rated their comfortability with microsoft excel below average. Understanding this lack in basic technological wisdom, we feel compelled to provide students with a simple tutorial showing them how to create graphs on microsoft excel.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents-as-many-as-needed&quot;&gt;Lesson Steps/Components [as many as needed]&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Open blank excel spreadsheet.&lt;/li&gt;
+  &lt;li&gt;Input your data into excel.&lt;/li&gt;
+  &lt;li&gt;Highlight your data by moving the mouse from the beginning of your data to the end of your data.&lt;/li&gt;
+  &lt;li&gt;Click the insert tab, and in the charts section choose one of nine graph and chart options to make.&lt;/li&gt;
+  &lt;li&gt;Adjust your data’s color’s and layout if applicable.&lt;/li&gt;
+  &lt;li&gt;Reorder and put a title on the graph upon personal desires.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;photos&quot;&gt;Photos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Input your data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/ExcelGraph/excel_step1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Highlight your data by moving the mouse from the beginning of your data to the end of your data, then click the insert tab, and in the charts section choose one of nine graph and chart options to make.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/ExcelGraph/excel_step2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adjust your data’s color’s and layout if applicable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/ExcelGraph/excel_step3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;credits-further-reading-etc&quot;&gt;Credits, Further Reading, etc.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Barron, Brenda. “40 Microsoft Excel Tutorials That’ll Blow Your Mind And Impress Your Boss Tomorrow.” Digital.com, Digital.com, 28 Mar. 2019, digital.com/blog/excel-tutorials/.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Sam, Akay, &amp; Raya</name></author><category term="tutorials" /><summary type="html">Lesson Abstact A simplified tutorial showing students how to create a graph on excel. Lesson Objectives/Outcomes Student will be able to set up a chart. Student will be able to insert data into a chart Student will be able to label data Student will be able to design the chart Student will be able to compare the data</summary></entry><entry><title type="html">Data Analysis With Google Suite</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/05/20/Data_Analysis.html" rel="alternate" type="text/html" title="Data Analysis With Google Suite" /><published>2019-05-20T03:00:00-07:00</published><updated>2019-05-20T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/05/20/Data_Analysis</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/05/20/Data_Analysis.html">&lt;h2 id=&quot;lesson-abstract&quot;&gt;Lesson Abstract&lt;/h2&gt;
+
+&lt;p&gt;Students at Pierce College are often asked to complete work on spreadsheets. Microsoft Office is the tool most often recommended by professors; however, Google Sheets as part of the larger G Suite offers services that can be more helpful to students (especially those studying the sciences). This lesson will show you how to use Google Sheets to do some basic analysis and get you started toward learning more if you would like.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+
+&lt;p&gt;By the end of this lesson, you will be able to do the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enter data in an organized way in Google Sheets&lt;/li&gt;
+  &lt;li&gt;Perform statistical analysis including standard deviation, mean, etc.&lt;/li&gt;
+  &lt;li&gt;Enter formulas in cells so Sheets can do the math for you&lt;/li&gt;
+  &lt;li&gt;Link a table of your results to a Google Doc for reports/papers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: &lt;a href=&quot;https://support.google.com/accounts/answer/27441?hl=en&quot;&gt;I’m an inline-style link&lt;/a&gt;
+Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to &lt;a href=&quot;https://www.google.com/docs/about/&quot;&gt;Google Docs&lt;/a&gt; or &lt;a href=&quot;https://www.google.com/sheets/about/&quot;&gt;Google Sheets&lt;/a&gt;. You can access these websites on any browser.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Data analysis can be done with any spreadsheet software from Microsoft Excel to Open Office Calc. This tutorial focuses on &lt;strong&gt;Google Sheets&lt;/strong&gt; for a few reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s free&lt;/li&gt;
+  &lt;li&gt;It is web based, so you don’t need a powerful computer to run the software&lt;/li&gt;
+  &lt;li&gt;Multiple users can access and edit a file at the same time&lt;/li&gt;
+  &lt;li&gt;All files are automatically saved to the cloud so you can always get to them and you never lose your work&lt;/li&gt;
+  &lt;li&gt;You can link your data to tables in Google Docs so you can make changes to the Sheet and update the Doc as needed&lt;/li&gt;
+  &lt;li&gt;Google Sheets helps you along the way by suggesting equations and showing you how to enter variables&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents&quot;&gt;Lesson Steps/Components&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Load &lt;a href=&quot;https://www.google.com/sheets/about/&quot;&gt;Google Sheets&lt;/a&gt; and click &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/New_file_logo.png&quot; width=&quot;40&quot; height=&quot;30&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Note - the top row of your table doesn’t have to be row 1 and the first column doesn’t have to be column A. It is ok to have multiple tables in one sheet.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Table_Layout.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with &lt;strong&gt;&lt;em&gt;”=”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Note - you can enter another equation in the next column if you need to calculate more than one value &lt;em&gt;or&lt;/em&gt; if you want to make your calculation in multiple steps.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Entering_Equation.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Equation_with_Parentheses.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To calculate the same equation for all rows in the column, click on the cell and then drag the cell’s bottom right corner down to the end of your list.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Drag_Down.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ‘ &lt;strong&gt;=&lt;/strong&gt; ‘ in the next cell to the right, Sheets will often suggest a formula for you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Suggested_Equations.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sheets will show you what should be in your equation and guess which cells should be included. It is usually correct and will be the same for all statistics in that column.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Standard_Deviation.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use these buttons &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Decimal_Buttons.png&quot; /&gt; to adjust how many decimal places shown.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Decimals.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Drag_Right.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When you have your table completely filled out, highlight and copy it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Copy.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Now paste it in your Google Doc as a linked table.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Pasting.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;After making changes to your sheet, you will see &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Update_Button.png&quot; /&gt; at the top of your table in Docs. Simply click it to update the data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/Data_Analysis/Change_Range.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;credits-further-reading-etc&quot;&gt;Credits, Further Reading, etc.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://support.google.com/a/users/answer/9310369&quot;&gt;G Suite Learning Center&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/zs3ku4uVoho&quot;&gt;Link_to_Video_Resource&lt;/a&gt;
+Referencing a bug by #bugID in your git commit links it to the slip. For example #1.&lt;/p&gt;
+
+&lt;p&gt;License: CC-BY&lt;/p&gt;
+
+&lt;p&gt;Pages 10
+Find a Page…
+Home
+Compatibility
+Development Notes
+Markdown Cheatsheet
+Markdown Here Cheatsheet
+Other Markdown Tools
+Press, Posts, Reviews, Etc.
+Reviews
+Tips and Tricks
+Troubleshooting
+Clone this wiki locally&lt;/p&gt;</content><author><name>Greg Joyce, Richard Soeum, &amp; Yamill Monteagudo</name></author><category term="tutorials" /><summary type="html">Lesson Abstract</summary></entry><entry><title type="html">How to take advantage of Google Docs for group collaboration</title><link href="http://localhost:4000/pierce-hacker/tutorials/2019/05/20/GDocCollab.html" rel="alternate" type="text/html" title="How to take advantage of Google Docs for group collaboration" /><published>2019-05-20T03:00:00-07:00</published><updated>2019-05-20T03:00:00-07:00</updated><id>http://localhost:4000/pierce-hacker/tutorials/2019/05/20/GDocCollab</id><content type="html" xml:base="http://localhost:4000/pierce-hacker/tutorials/2019/05/20/GDocCollab.html">&lt;h2 id=&quot;lesson-abstact&quot;&gt;Lesson Abstact&lt;/h2&gt;
+
+&lt;p&gt;Cloud storage services can be extremely useful for many things, including sharing and collaborating. Google Docs is an example of a software that is capable of doing these objectives.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-objectivesoutcomes&quot;&gt;Lesson Objectives/Outcomes&lt;/h2&gt;
+
+&lt;p&gt;After reading this tutorial, the student will know how to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a sharable link of your document&lt;/li&gt;
+  &lt;li&gt;How to send the link through various means&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;The materials needed in order to complete this lesson include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Laptop/desktop/phone&lt;/li&gt;
+  &lt;li&gt;Google account&lt;/li&gt;
+  &lt;li&gt;Internet access&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This lesson responds to the many people at Pierce who don’t use cloud storage software. Knowing how to use Google Docs is useful for Pierce College students because it is likely that they will be expected to collaborate in a group project.&lt;/p&gt;
+
+&lt;h2 id=&quot;lesson-stepscomponents&quot;&gt;Lesson Steps/Components&lt;/h2&gt;
+
+&lt;h3 id=&quot;how-to-get-google-docs-open&quot;&gt;How to get Google Docs open&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Log into &lt;a href=&quot;https://accounts.google.com&quot;&gt;Google Acount&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open the apps menu at the top right and scroll down.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/a1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open Google Docs.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/b1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Start a new document (or open an existing one).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/c1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;From here you can share your document.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-share-your-document-directly-through-an-email&quot;&gt;How to share your document directly through an email&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Press the “Share” button at the top right (Make sure your document has a good name).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/d1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Enter the person’s email in the text box.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/e1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click the drop down to determine the access that the person has to your document.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/f1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click send.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now you shared the document and the recipient has access to it!&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-share-your-document-with-a-link&quot;&gt;How to share your document with a link&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Press the “Share” button at the top right (Make sure your document has a good name).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click the “Get shareable link” button&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click the drop down to determine the access that the person has to your document.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click the “Copy link” button.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now you can paste the link wherever you want.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-work-with-a-shared-document-as-the-recipient&quot;&gt;How to work with a shared document as the recipient&lt;/h3&gt;
+
+&lt;p&gt;The recipient of the document is limited to whichever level of access was given from the sender. For example, a recipient with “editing” access will be able to make changes directly to the document. A recipient who only has commenting access will only be able to make suggestions and comments to a document. If a recipient only has viewing access, then no additions/changes can be made.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/pierce-hacker/assets/images/GDocCollab/i.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;credits-further-reading-etc&quot;&gt;Credits, Further Reading, etc.&lt;/h2&gt;
+
+&lt;p&gt;N/A&lt;/p&gt;</content><author><name>Rodrigo Torres, Nhan Nguyen, &amp; Mitch Rosaaen</name></author><category term="tutorials" /><summary type="html">Lesson Abstact</summary></entry></feed>
